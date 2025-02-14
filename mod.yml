@@ -295,6 +295,10 @@ assets:
    method: copy
    source:
      - name: libretto/us/wm524.bar
+ - name: libretto/us/wm524.bar
+   method: copy
+   source:
+     - name: libretto/us/wm524.bar
 # Cutscene Files
  - name: anm/fm/al/p_ex030/EAL10102E.anb
    method: copy
