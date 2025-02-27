@@ -1,47 +1,14 @@
 - SubId: 0
-  Id: 151   
+  Id: 139   
   Type: 1
   CriticalAdjust: 0
-  Power: 100
+  Power: 200
   Team: 0
   Element: 0
-  EnemyReaction: 11
+  EnemyReaction: 10
   EffectOnHit: 1
-  KnockbackStrength1: 0
-  KnockbackStrength2: -6
-  Unknown: 0
-  Flags: KillBoss
-  RefactSelf: Nothing
-  RefactOther: Nothing
-  ReflectedMotion: 0
-  ReflectedHitBack: 0
-  ReflectAction: 0
-  ReflectHitSound: 500008
-  ReflectRC: 0
-  ReflectRange: 0
-  ReflectAngle: 0
-  DamageEffect: 1
-  Switch: 0
-  Interval: 8
-  FloorCheck: 0
-  DriveDrain: 0
-  RevengeDamage: 0
-  AttackTrReaction: Attack
-  ComboGroup: 0
-  RandomEffect: 0
-  Kind: 0
-  HpDrain: 0
-- SubId: 0 
-  Id: 152 
-  Type: 4
-  CriticalAdjust: 0
-  Power: 100
-  Team: 0
-  Element: 0
-  EnemyReaction: 11
-  EffectOnHit: 1
-  KnockbackStrength1: 0
-  KnockbackStrength2: 10
+  KnockbackStrength1: 20
+  KnockbackStrength2: 0
   Unknown: 0
   Flags: 
   RefactSelf: Nothing
@@ -49,73 +16,7 @@
   ReflectedMotion: 0
   ReflectedHitBack: 0
   ReflectAction: 0
-  ReflectHitSound: 500007
-  ReflectRC: 0
-  ReflectRange: 0
-  ReflectAngle: 0
-  DamageEffect: 1
-  Switch: 0
-  Interval: 6
-  FloorCheck: 0
-  DriveDrain: 0
-  RevengeDamage: 0
-  AttackTrReaction: Attack
-  ComboGroup: 0
-  RandomEffect: 0
-  Kind: 0
-  HpDrain: 0
-- SubId: 0
-  Id: 153 
-  Type: 1
-  CriticalAdjust: 1
-  Power: 100
-  Team: 0
-  Element: 0
-  EnemyReaction: 11
-  EffectOnHit: 1
-  KnockbackStrength1: 6
-  KnockbackStrength2: 6
-  Unknown: 0
-  Flags: 
-  RefactSelf: Nothing
-  RefactOther: Nothing
-  ReflectedMotion: 0
-  ReflectedHitBack: 0
-  ReflectAction: 0
-  ReflectHitSound: 500000
-  ReflectRC: 0
-  ReflectRange: 0
-  ReflectAngle: 0
-  DamageEffect: 1
-  Switch: 0
-  Interval: 6
-  FloorCheck: 0
-  DriveDrain: 0
-  RevengeDamage: 0
-  AttackTrReaction: Attack
-  ComboGroup: 0
-  RandomEffect: 0
-  Kind: 0
-  HpDrain: 0
-- SubId: 0
-  Id: 154 
-  Type: 1
-  CriticalAdjust: 0
-  Power: 100
-  Team: 0
-  Element: 0
-  EnemyReaction: 11
-  EffectOnHit: 3
-  KnockbackStrength1: 4
-  KnockbackStrength2: 10
-  Unknown: 0
-  Flags: 
-  RefactSelf: Nothing
-  RefactOther: Nothing
-  ReflectedMotion: 0
-  ReflectedHitBack: 0
-  ReflectAction: 0
-  ReflectHitSound: 500006
+  ReflectHitSound: 500003
   ReflectRC: 0
   ReflectRange: 0
   ReflectAngle: 0
@@ -131,16 +32,16 @@
   Kind: 0
   HpDrain: 0
 - SubId: 0 
-  Id: 155 
-  Type: 1
+  Id: 156 
+  Type: 4
   CriticalAdjust: 0
-  Power: 100
+  Power: 200
   Team: 0
   Element: 0
   EnemyReaction: 11
   EffectOnHit: 1
-  KnockbackStrength1: 2
-  KnockbackStrength2: -2
+  KnockbackStrength1: 12
+  KnockbackStrength2: -5
   Unknown: 0
   Flags: 
   RefactSelf: Nothing
@@ -154,7 +55,139 @@
   ReflectAngle: 0
   DamageEffect: 1
   Switch: 0
-  Interval: 8
+  Interval: 0
+  FloorCheck: 0
+  DriveDrain: 0
+  RevengeDamage: 0
+  AttackTrReaction: Attack
+  ComboGroup: 0
+  RandomEffect: 0
+  Kind: 0
+  HpDrain: 0
+- SubId: 0
+  Id: 157 
+  Type: 1
+  CriticalAdjust: 0
+  Power: 200
+  Team: 0
+  Element: 0
+  EnemyReaction: 11
+  EffectOnHit: 1
+  KnockbackStrength1: 7
+  KnockbackStrength2: -2
+  Unknown: 0
+  Flags: 
+  RefactSelf: Nothing
+  RefactOther: Nothing
+  ReflectedMotion: 0
+  ReflectedHitBack: 0
+  ReflectAction: 0
+  ReflectHitSound: 500000
+  ReflectRC: 0
+  ReflectRange: 0
+  ReflectAngle: 0
+  DamageEffect: 1
+  Switch: 0
+  Interval: 0
+  FloorCheck: 0
+  DriveDrain: 0
+  RevengeDamage: 0
+  AttackTrReaction: Attack
+  ComboGroup: 0
+  RandomEffect: 0
+  Kind: 0
+  HpDrain: 0
+- SubId: 0
+  Id: 158 
+  Type: 1
+  CriticalAdjust: 0
+  Power: 200
+  Team: 0
+  Element: 0
+  EnemyReaction: 11
+  EffectOnHit: 1
+  KnockbackStrength1: 20
+  KnockbackStrength2: -2
+  Unknown: 0
+  Flags: 
+  RefactSelf: Nothing
+  RefactOther: Nothing
+  ReflectedMotion: 0
+  ReflectedHitBack: 0
+  ReflectAction: 0
+  ReflectHitSound: 500000
+  ReflectRC: 0
+  ReflectRange: 0
+  ReflectAngle: 0
+  DamageEffect: 1
+  Switch: 0
+  Interval: 0
+  FloorCheck: 0
+  DriveDrain: 0
+  RevengeDamage: 0
+  AttackTrReaction: Attack
+  ComboGroup: 0
+  RandomEffect: 0
+  Kind: 0
+  HpDrain: 0
+- SubId: 0
+  Id: 159 
+  Type: 1
+  CriticalAdjust: 0
+  Power: 200
+  Team: 0
+  Element: 0
+  EnemyReaction: 11
+  EffectOnHit: 1
+  KnockbackStrength1: 12
+  KnockbackStrength2: -2
+  Unknown: 0
+  Flags: 
+  RefactSelf: Nothing
+  RefactOther: Nothing
+  ReflectedMotion: 0
+  ReflectedHitBack: 0
+  ReflectAction: 0
+  ReflectHitSound: 500000
+  ReflectRC: 0
+  ReflectRange: 0
+  ReflectAngle: 0
+  DamageEffect: 1
+  Switch: 0
+  Interval: 0
+  FloorCheck: 0
+  DriveDrain: 0
+  RevengeDamage: 0
+  AttackTrReaction: Attack
+  ComboGroup: 0
+  RandomEffect: 0
+  Kind: 0
+  HpDrain: 0
+- SubId: 0
+  Id: 1161 
+  Type: 1
+  CriticalAdjust: 0
+  Power: 200
+  Team: 0
+  Element: 0
+  EnemyReaction: 11
+  EffectOnHit: 1
+  KnockbackStrength1: 7
+  KnockbackStrength2: -2
+  Unknown: 0
+  Flags: 
+  RefactSelf: Nothing
+  RefactOther: Nothing
+  ReflectedMotion: 0
+  ReflectedHitBack: 0
+  ReflectAction: 0
+  ReflectHitSound: 500001
+  ReflectRC: 0
+  ReflectRange: 0
+  ReflectAngle: 0
+  DamageEffect: 1
+  Switch: 0
+  Interval: 4
   FloorCheck: 0
   DriveDrain: 0
   RevengeDamage: 0

@@ -135,7 +135,345 @@ assets:
  - name: remastered/itempic/item-080.imd/-0.dds
    method: copy
    source:
-     - name: remastered/itempic/item-080.imd/-0.dds 
+     - name: remastered/itempic/item-080.imd/-0.dds
+# -0.DDS (P_EX030)  
+ - name: remastered/obj/P_EX030.a.us/-0.dds
+   multi:
+   - name: remastered/obj/P_EX030_NM.a.us/-0.dds 
+   - name: remastered/obj/P_EX030_DC.a.us/-0.dds 
+   - name: remastered/obj/P_EX030_CM.a.us/-0.dds 
+   - name: remastered/obj/P_EX030_TR.a.us/-0.dds
+   - name: remastered/obj/P_EX030_XM.a.us/-0.dds
+   - name: remastered/obj/P_LK030.a.us/-0.dds 
+   - name: remastered/obj/P_WI030.a.us/-0.dds 
+   method: copy
+   source:
+     - name: remastered/obj/P_EX030.a.us/-0.dds
+# -1.DDS (P_EX030)  
+ - name: remastered/obj/P_EX030.a.us/-1.dds
+   multi:
+   - name: remastered/obj/P_EX030_NM.a.us/-1.dds 
+   - name: remastered/obj/P_EX030_TR.a.us/-1.dds
+   - name: remastered/obj/P_EX030_DC.a.us/-1.dds 
+   - name: remastered/obj/P_EX030_CM.a.us/-1.dds
+   - name: remastered/obj/P_EX030_XM.a.us/-1.dds
+   - name: remastered/obj/P_LK030.a.us/-1.dds 
+   - name: remastered/obj/P_WI030.a.us/-1.dds 
+   method: copy
+   source:
+     - name: remastered/obj/P_EX030.a.us/-1.dds
+# -2.DDS (P_EX030)  
+ - name: remastered/obj/P_EX030.a.us/-2.dds
+   multi:
+   - name: remastered/obj/P_EX030_NM.a.us/-2.dds 
+   - name: remastered/obj/P_EX030_CM.a.us/-2.dds 
+   - name: remastered/obj/P_EX030_DC.a.us/-2.dds 
+   - name: remastered/obj/P_EX030_TR.a.us/-2.dds
+   - name: remastered/obj/P_EX030_XM.a.us/-2.dds
+   - name: remastered/obj/P_LK030.a.us/-2.dds 
+   - name: remastered/obj/P_WI030.a.us/-2.dds 
+   method: copy
+   source:
+     - name: remastered/obj/P_EX030.a.us/-2.dds
+# -3.DDS (P_EX030)  
+ - name: remastered/obj/P_EX030.a.us/-3.dds
+   multi:
+   - name: remastered/obj/P_EX030_NM.a.us/-3.dds 
+   - name: remastered/obj/P_EX030_CM.a.us/-3.dds 
+   - name: remastered/obj/P_EX030_DC.a.us/-3.dds 
+   - name: remastered/obj/P_EX030_TR.a.us/-3.dds
+   - name: remastered/obj/P_EX030_XM.a.us/-3.dds
+   - name: remastered/obj/P_LK030.a.us/-3.dds 
+   - name: remastered/obj/P_WI030.a.us/-3.dds 
+   method: copy
+   source:
+     - name: remastered/obj/P_EX030.a.us/-3.dds
+# -4.DDS (P_EX030)  
+ - name: remastered/obj/P_EX030.a.us/-4.dds
+   multi:
+   - name: remastered/obj/P_EX030_NM.a.us/-4.dds 
+   - name: remastered/obj/P_EX030_CM.a.us/-4.dds 
+   - name: remastered/obj/P_EX030_DC.a.us/-4.dds 
+   - name: remastered/obj/P_EX030_TR.a.us/-4.dds
+   - name: remastered/obj/P_EX030_XM.a.us/-4.dds
+   - name: remastered/obj/P_LK030.a.us/-4.dds 
+   - name: remastered/obj/P_WI030.a.us/-4.dds 
+   method: copy
+   source:
+     - name: remastered/obj/P_EX030.a.us/-4.dds
+# -5.DDS (P_EX030)  
+ - name: remastered/obj/P_EX030.a.us/-5.dds
+   multi:
+   - name: remastered/obj/P_EX030_NM.a.us/-5.dds 
+   - name: remastered/obj/P_EX030_CM.a.us/-5.dds 
+   - name: remastered/obj/P_EX030_DC.a.us/-5.dds 
+   - name: remastered/obj/P_EX030_TR.a.us/-5.dds
+   - name: remastered/obj/P_EX030_XM.a.us/-5.dds
+   - name: remastered/obj/P_LK030.a.us/-5.dds 
+   - name: remastered/obj/P_WI030.a.us/-5.dds 
+   method: copy
+   source:
+     - name: remastered/obj/P_EX030.a.us/-5.dds
+# -6.DDS (P_EX030)  
+ - name: remastered/obj/P_EX030.a.us/-6.dds
+   multi:
+   - name: remastered/obj/P_EX030_NM.a.us/-6.dds 
+   - name: remastered/obj/P_EX030_CM.a.us/-6.dds 
+   - name: remastered/obj/P_EX030_DC.a.us/-6.dds 
+   - name: remastered/obj/P_EX030_TR.a.us/-6.dds
+   - name: remastered/obj/P_EX030_XM.a.us/-6.dds
+   - name: remastered/obj/P_LK030.a.us/-6.dds 
+   - name: remastered/obj/P_WI030.a.us/-6.dds 
+   method: copy
+   source:
+     - name: remastered/obj/P_EX030.a.us/-6.dds
+# -7.DDS (P_EX030)  
+ - name: remastered/obj/P_EX030.a.us/-7.dds
+   multi:
+   - name: remastered/obj/P_EX030_NM.a.us/-7.dds 
+   - name: remastered/obj/P_EX030_CM.a.us/-7.dds 
+   - name: remastered/obj/P_EX030_DC.a.us/-7.dds 
+   - name: remastered/obj/P_EX030_TR.a.us/-7.dds
+   - name: remastered/obj/P_EX030_XM.a.us/-7.dds
+   - name: remastered/obj/P_LK030.a.us/-7.dds 
+   - name: remastered/obj/P_WI030.a.us/-7.dds 
+   method: copy
+   source:
+     - name: remastered/obj/P_EX030.a.us/-7.dds
+# -8.DDS (P_EX030)  
+ - name: remastered/obj/P_EX030.a.us/-8.dds
+   multi:
+   - name: remastered/obj/P_EX030_NM.a.us/-8.dds 
+   - name: remastered/obj/P_EX030_CM.a.us/-8.dds 
+   - name: remastered/obj/P_EX030_DC.a.us/-8.dds 
+   - name: remastered/obj/P_EX030_TR.a.us/-8.dds
+   - name: remastered/obj/P_EX030_XM.a.us/-8.dds
+   - name: remastered/obj/P_LK030.a.us/-8.dds 
+   - name: remastered/obj/P_WI030.a.us/-8.dds 
+   method: copy
+   source:
+     - name: remastered/obj/P_EX030.a.us/-8.dds  
+# -9.DDS (P_EX030)   
+ - name: remastered/obj/P_EX030.a.us/-9.dds
+   multi:
+   - name: remastered/obj/P_EX030_NM.a.us/-9.dds 
+   - name: remastered/obj/P_EX030_CM.a.us/-9.dds 
+   - name: remastered/obj/P_EX030_DC.a.us/-9.dds 
+   - name: remastered/obj/P_EX030_TR.a.us/-9.dds
+   - name: remastered/obj/P_EX030_XM.a.us/-9.dds
+   - name: remastered/obj/P_LK030.a.us/-9.dds 
+   - name: remastered/obj/P_WI030.a.us/-9.dds 
+   method: copy
+   source:
+     - name: remastered/obj/P_EX030.a.us/-9.dds
+# -10.DDS (P_EX030)
+ - name: remastered/obj/P_EX030.a.us/-10.dds
+   multi:
+   - name: remastered/obj/P_EX030_NM.a.us/-10.dds 
+   - name: remastered/obj/P_EX030_CM.a.us/-10.dds 
+   - name: remastered/obj/P_EX030_DC.a.us/-10.dds 
+   - name: remastered/obj/P_EX030_TR.a.us/-10.dds
+   - name: remastered/obj/P_EX030_XM.a.us/-10.dds
+   - name: remastered/obj/P_LK030.a.us/-10.dds 
+   - name: remastered/obj/P_WI030.a.us/-10.dds 
+   method: copy
+   source:
+     - name: remastered/obj/P_EX030.a.us/-10.dds
+# -11.DDS (P_EX030)
+ - name: remastered/obj/P_EX030.a.us/-11.dds
+   multi:
+   - name: remastered/obj/P_EX030_NM.a.us/-11.dds 
+   - name: remastered/obj/P_EX030_CM.a.us/-11.dds 
+   - name: remastered/obj/P_EX030_DC.a.us/-11.dds 
+   - name: remastered/obj/P_EX030_TR.a.us/-11.dds
+   - name: remastered/obj/P_EX030_XM.a.us/-11.dds
+   - name: remastered/obj/P_LK030.a.us/-11.dds 
+   - name: remastered/obj/P_WI030.a.us/-11.dds 
+   method: copy
+   source:
+     - name: remastered/obj/P_EX030.a.us/-11.dds
+# -12.DDS (P_EX030)
+ - name: remastered/obj/P_EX030.a.us/-12.dds
+   multi:
+   - name: remastered/obj/P_EX030_NM.a.us/-12.dds 
+   - name: remastered/obj/P_EX030_CM.a.us/-12.dds 
+   - name: remastered/obj/P_EX030_DC.a.us/-12.dds 
+   - name: remastered/obj/P_EX030_TR.a.us/-12.dds
+   - name: remastered/obj/P_EX030_XM.a.us/-12.dds
+   - name: remastered/obj/P_LK030.a.us/-12.dds 
+   - name: remastered/obj/P_WI030.a.us/-12.dds 
+   method: copy
+   source:
+     - name: remastered/obj/P_EX030.a.us/-12.dds
+# -13.DDS (P_EX030)
+ - name: remastered/obj/P_EX030.a.us/-13.dds
+   multi:
+   - name: remastered/obj/P_EX030_NM.a.us/-13.dds 
+   - name: remastered/obj/P_EX030_CM.a.us/-13.dds 
+   - name: remastered/obj/P_EX030_DC.a.us/-13.dds 
+   - name: remastered/obj/P_EX030_TR.a.us/-13.dds
+   - name: remastered/obj/P_EX030_XM.a.us/-13.dds
+   - name: remastered/obj/P_LK030.a.us/-13.dds 
+   - name: remastered/obj/P_WI030.a.us/-13.dds 
+   method: copy
+   source:
+     - name: remastered/obj/P_EX030.a.us/-13.dds
+# -14.DDS (P_EX030)
+ - name: remastered/obj/P_EX030.a.us/-14.dds
+   multi:
+   - name: remastered/obj/P_EX030_NM.a.us/-14.dds 
+   - name: remastered/obj/P_EX030_CM.a.us/-14.dds 
+   - name: remastered/obj/P_EX030_DC.a.us/-14.dds 
+   - name: remastered/obj/P_EX030_TR.a.us/-14.dds
+   - name: remastered/obj/P_EX030_XM.a.us/-14.dds
+   - name: remastered/obj/P_LK030.a.us/-14.dds 
+   - name: remastered/obj/P_WI030.a.us/-14.dds 
+   method: copy
+   source:
+     - name: remastered/obj/P_EX030.a.us/-14.dds
+# -15.DDS (P_EX030)
+ - name: remastered/obj/P_EX030.a.us/-15.dds
+   multi:
+   - name: remastered/obj/P_EX030_NM.a.us/-15.dds 
+   - name: remastered/obj/P_EX030_CM.a.us/-15.dds 
+   - name: remastered/obj/P_EX030_DC.a.us/-15.dds 
+   - name: remastered/obj/P_EX030_TR.a.us/-15.dds
+   - name: remastered/obj/P_EX030_XM.a.us/-15.dds
+   - name: remastered/obj/P_LK030.a.us/-15.dds 
+   - name: remastered/obj/P_WI030.a.us/-15.dds 
+   method: copy
+   source:
+     - name: remastered/obj/P_EX030.a.us/-15.dds
+# -16.DDS (P_EX030)
+ - name: remastered/obj/P_EX030.a.us/-16.dds
+   multi:
+   - name: remastered/obj/P_EX030_NM.a.us/-16.dds 
+   - name: remastered/obj/P_EX030_CM.a.us/-16.dds 
+   - name: remastered/obj/P_EX030_DC.a.us/-16.dds 
+   - name: remastered/obj/P_EX030_TR.a.us/-16.dds
+   - name: remastered/obj/P_EX030_XM.a.us/-16.dds
+   - name: remastered/obj/P_LK030.a.us/-16.dds 
+   - name: remastered/obj/P_WI030.a.us/-16.dds 
+   method: copy
+   source:
+     - name: remastered/obj/P_EX030.a.us/-16.dds
+# -17.DDS (P_EX030)
+ - name: remastered/obj/P_EX030.a.us/-17.dds
+   multi:
+   - name: remastered/obj/P_EX030_NM.a.us/-17.dds 
+   - name: remastered/obj/P_EX030_CM.a.us/-17.dds 
+   - name: remastered/obj/P_EX030_DC.a.us/-17.dds 
+   - name: remastered/obj/P_EX030_TR.a.us/-17.dds
+   - name: remastered/obj/P_EX030_XM.a.us/-17.dds
+   - name: remastered/obj/P_LK030.a.us/-17.dds 
+   - name: remastered/obj/P_WI030.a.us/-17.dds 
+   method: copy
+   source:
+     - name: remastered/obj/P_EX030.a.us/-17.dds
+# -18.DDS (P_EX030)
+ - name: remastered/obj/P_EX030.a.us/-18.dds
+   multi:
+   - name: remastered/obj/P_EX030_NM.a.us/-18.dds 
+   - name: remastered/obj/P_EX030_CM.a.us/-18.dds 
+   - name: remastered/obj/P_EX030_DC.a.us/-18.dds 
+   - name: remastered/obj/P_EX030_TR.a.us/-18.dds
+   - name: remastered/obj/P_EX030_XM.a.us/-18.dds
+   - name: remastered/obj/P_LK030.a.us/-18.dds 
+   - name: remastered/obj/P_WI030.a.us/-18.dds 
+   method: copy
+   source:
+     - name: remastered/obj/P_EX030.a.us/-18.dds
+# -19.DDS (P_EX030)
+ - name: remastered/obj/P_EX030.a.us/-19.dds
+   multi:
+   - name: remastered/obj/P_EX030_NM.a.us/-19.dds 
+   - name: remastered/obj/P_EX030_CM.a.us/-19.dds 
+   - name: remastered/obj/P_EX030_DC.a.us/-19.dds 
+   - name: remastered/obj/P_EX030_TR.a.us/-19.dds
+   - name: remastered/obj/P_EX030_XM.a.us/-19.dds
+   - name: remastered/obj/P_LK030.a.us/-19.dds 
+   - name: remastered/obj/P_WI030.a.us/-19.dds 
+   method: copy
+   source:
+     - name: remastered/obj/P_EX030.a.us/-19.dds
+# -20.DDS (P_EX030)
+ - name: remastered/obj/P_EX030.a.us/-20.dds
+   multi:
+   - name: remastered/obj/P_EX030_NM.a.us/-20.dds 
+   - name: remastered/obj/P_EX030_CM.a.us/-20.dds 
+   - name: remastered/obj/P_EX030_DC.a.us/-20.dds 
+   - name: remastered/obj/P_EX030_TR.a.us/-20.dds
+   - name: remastered/obj/P_EX030_XM.a.us/-20.dds
+   - name: remastered/obj/P_LK030.a.us/-20.dds 
+   - name: remastered/obj/P_WI030.a.us/-20.dds 
+   method: copy
+   source:
+     - name: remastered/obj/P_EX030.a.us/-20.dds
+# -21.DDS (P_EX030)
+ - name: remastered/obj/P_EX030.a.us/-21.dds
+   multi:
+   - name: remastered/obj/P_EX030_NM.a.us/-21.dds 
+   - name: remastered/obj/P_EX030_CM.a.us/-21.dds 
+   - name: remastered/obj/P_EX030_DC.a.us/-21.dds 
+   - name: remastered/obj/P_EX030_TR.a.us/-21.dds
+   - name: remastered/obj/P_EX030_XM.a.us/-21.dds
+   - name: remastered/obj/P_LK030.a.us/-21.dds 
+   - name: remastered/obj/P_WI030.a.us/-21.dds 
+   method: copy
+   source:
+     - name: remastered/obj/P_EX030.a.us/-21.dds
+# -22.DDS (P_EX030)
+ - name: remastered/obj/P_EX030.a.us/-22.dds
+   multi:
+   - name: remastered/obj/P_EX030_NM.a.us/-22.dds 
+   - name: remastered/obj/P_EX030_CM.a.us/-22.dds 
+   - name: remastered/obj/P_EX030_DC.a.us/-22.dds 
+   - name: remastered/obj/P_EX030_TR.a.us/-22.dds
+   - name: remastered/obj/P_EX030_XM.a.us/-22.dds
+   - name: remastered/obj/P_LK030.a.us/-22.dds 
+   - name: remastered/obj/P_WI030.a.us/-22.dds 
+   method: copy
+   source:
+     - name: remastered/obj/P_EX030.a.us/-22.dds
+# -23.DDS (P_EX030)
+ - name: remastered/obj/P_EX030.a.us/-23.dds
+   multi:
+   - name: remastered/obj/P_EX030_NM.a.us/-23.dds 
+   - name: remastered/obj/P_EX030_CM.a.us/-23.dds 
+   - name: remastered/obj/P_EX030_DC.a.us/-23.dds 
+   - name: remastered/obj/P_EX030_TR.a.us/-23.dds
+   - name: remastered/obj/P_EX030_XM.a.us/-23.dds
+   - name: remastered/obj/P_LK030.a.us/-23.dds 
+   - name: remastered/obj/P_WI030.a.us/-23.dds 
+   method: copy
+   source:
+     - name: remastered/obj/P_EX030.a.us/-23.dds
+# -24.DDS (P_EX030)
+ - name: remastered/obj/P_EX030.a.us/-24.dds
+   multi:
+   - name: remastered/obj/P_EX030_NM.a.us/-24.dds 
+   - name: remastered/obj/P_EX030_CM.a.us/-24.dds 
+   - name: remastered/obj/P_EX030_DC.a.us/-24.dds 
+   - name: remastered/obj/P_EX030_TR.a.us/-24.dds
+   - name: remastered/obj/P_EX030_XM.a.us/-24.dds
+   - name: remastered/obj/P_LK030.a.us/-24.dds 
+   - name: remastered/obj/P_WI030.a.us/-24.dds 
+   method: copy
+   source:
+     - name: remastered/obj/P_EX030.a.us/-24.dds
+# -25.DDS (P_EX030)
+ - name: remastered/obj/P_EX030.a.us/-25.dds
+   multi:
+   - name: remastered/obj/P_EX030_NM.a.us/-25.dds 
+   - name: remastered/obj/P_EX030_CM.a.us/-25.dds 
+   - name: remastered/obj/P_EX030_DC.a.us/-25.dds 
+   - name: remastered/obj/P_EX030_TR.a.us/-25.dds
+   - name: remastered/obj/P_EX030_XM.a.us/-25.dds
+   - name: remastered/obj/P_LK030.a.us/-25.dds 
+   - name: remastered/obj/P_WI030.a.us/-25.dds 
+   method: copy
+   source:
+     - name: remastered/obj/P_EX030.a.us/-25.dds     
 # -0.DDS (W_EX030)  
  - name: remastered/obj/W_EX030.a.us/-0.dds
    multi:
