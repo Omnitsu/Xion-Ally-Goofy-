@@ -22,6 +22,11 @@ assets:
    method: copy
    source:
      - name: ard/us/tt30.ard
+# Sound Bar (Footstep Sounds)
+ - name: 12soundinfo.bar
+   method: copy
+   source:
+     - name: 12soundinfo.bar
 # Base Model     
  - name: obj/P_EX030.mdlx
    multi:
@@ -64,6 +69,15 @@ assets:
    method: copy
    source:
      - name: obj/P_EX030_MEMO.mset
+# Base Weapon A.US
+ - name: obj/W_EX030.a.us
+   multi:
+   - name: obj/W_EX030_NM.a.us 
+   - name: obj/W_EX030_TR.a.us 
+   - name: obj/W_EX030_WI.a.us 
+   method: copy
+   source:
+     - name: obj/W_EX030.a.us     
 # Base Weapon MDLX
  - name: obj/W_EX030.mdlx
    multi:
@@ -74,6 +88,367 @@ assets:
    method: copy
    source:
      - name: obj/W_EX030.mdlx
+# Weapon A.US
+ - name: obj/W_EX030_10.a.us
+   multi:
+   - name: obj/W_EX030_10_NM.a.us 
+   - name: obj/W_EX030_10_TR.a.us 
+   - name: obj/W_EX030_10_WI.a.us 
+   method: copy
+   source:
+     - name: obj/W_EX030_10.a.us     
+# Weapon MDLX
+ - name: obj/W_EX030_10.mdlx
+   multi:
+   - name: obj/W_EX030_10_NM.mdlx
+   - name: obj/W_EX030_10_TR.mdlx
+   - name: obj/W_EX030_10_XM.mdlx
+   - name: obj/W_EX030_10_WI.mdlx
+   method: copy
+   source:
+     - name: obj/W_EX030_10.mdlx
+# Weapon A.US
+ - name: obj/W_EX030_20.a.us
+   multi:
+   - name: obj/W_EX030_20_NM.a.us 
+   - name: obj/W_EX030_20_TR.a.us 
+   - name: obj/W_EX030_20_WI.a.us 
+   method: copy
+   source:
+     - name: obj/W_EX030_20.a.us     
+# Weapon MDLX
+ - name: obj/W_EX030_20.mdlx
+   multi:
+   - name: obj/W_EX030_20_NM.mdlx
+   - name: obj/W_EX030_20_TR.mdlx
+   - name: obj/W_EX030_20_XM.mdlx
+   - name: obj/W_EX030_20_WI.mdlx
+   method: copy
+   source:
+     - name: obj/W_EX030_20.mdlx
+# Weapon A.US
+ - name: obj/W_EX030_30.a.us
+   multi:
+   - name: obj/W_EX030_30_NM.a.us 
+   - name: obj/W_EX030_30_TR.a.us 
+   - name: obj/W_EX030_30_WI.a.us 
+   method: copy
+   source:
+     - name: obj/W_EX030_30.a.us     
+# Weapon MDLX
+ - name: obj/W_EX030_30.mdlx
+   multi:
+   - name: obj/W_EX030_30_NM.mdlx
+   - name: obj/W_EX030_30_TR.mdlx
+   - name: obj/W_EX030_30_XM.mdlx
+   - name: obj/W_EX030_30_WI.mdlx
+   method: copy
+   source:
+     - name: obj/W_EX030_30.mdlx
+# Weapon A.US
+ - name: obj/W_EX030_40.a.us
+   multi:
+   - name: obj/W_EX030_40_NM.a.us 
+   - name: obj/W_EX030_40_TR.a.us 
+   - name: obj/W_EX030_40_WI.a.us 
+   method: copy
+   source:
+     - name: obj/W_EX030_40.a.us     
+# Weapon MDLX
+ - name: obj/W_EX030_40.mdlx
+   multi:
+   - name: obj/W_EX030_40_NM.mdlx
+   - name: obj/W_EX030_40_TR.mdlx
+   - name: obj/W_EX030_40_XM.mdlx
+   - name: obj/W_EX030_40_WI.mdlx
+   method: copy
+   source:
+     - name: obj/W_EX030_40.mdlx
+# Weapon A.US
+ - name: obj/W_EX030_50.a.us
+   multi:
+   - name: obj/W_EX030_50_NM.a.us 
+   - name: obj/W_EX030_50_TR.a.us 
+   - name: obj/W_EX030_50_WI.a.us 
+   method: copy
+   source:
+     - name: obj/W_EX030_50.a.us     
+# Weapon MDLX
+ - name: obj/W_EX030_50.mdlx
+   multi:
+   - name: obj/W_EX030_50_NM.mdlx
+   - name: obj/W_EX030_50_TR.mdlx
+   - name: obj/W_EX030_50_XM.mdlx
+   - name: obj/W_EX030_50_WI.mdlx
+   method: copy
+   source:
+     - name: obj/W_EX030_50.mdlx
+# Weapon A.US
+ - name: obj/W_EX030_60.a.us
+   multi:
+   - name: obj/W_EX030_60_NM.a.us 
+   - name: obj/W_EX030_60_TR.a.us 
+   - name: obj/W_EX030_60_WI.a.us 
+   method: copy
+   source:
+     - name: obj/W_EX030_60.a.us     
+# Weapon MDLX
+ - name: obj/W_EX030_60.mdlx
+   multi:
+   - name: obj/W_EX030_60_NM.mdlx
+   - name: obj/W_EX030_60_TR.mdlx
+   - name: obj/W_EX030_60_XM.mdlx
+   - name: obj/W_EX030_60_WI.mdlx
+   method: copy
+   source:
+     - name: obj/W_EX030_60.mdlx
+# Weapon A.US
+ - name: obj/W_EX030_70.a.us
+   multi:
+   - name: obj/W_EX030_70_NM.a.us 
+   - name: obj/W_EX030_70_TR.a.us 
+   - name: obj/W_EX030_70_WI.a.us 
+   method: copy
+   source:
+     - name: obj/W_EX030_70.a.us     
+# Weapon MDLX
+ - name: obj/W_EX030_70.mdlx
+   multi:
+   - name: obj/W_EX030_70_NM.mdlx
+   - name: obj/W_EX030_70_TR.mdlx
+   - name: obj/W_EX030_70_XM.mdlx
+   - name: obj/W_EX030_70_WI.mdlx
+   method: copy
+   source:
+     - name: obj/W_EX030_70.mdlx
+# Weapon A.US
+ - name: obj/W_EX030_80.a.us
+   multi:
+   - name: obj/W_EX030_80_NM.a.us 
+   - name: obj/W_EX030_80_TR.a.us 
+   - name: obj/W_EX030_80_WI.a.us 
+   method: copy
+   source:
+     - name: obj/W_EX030_80.a.us     
+# Weapon MDLX
+ - name: obj/W_EX030_80.mdlx
+   multi:
+   - name: obj/W_EX030_80_NM.mdlx
+   - name: obj/W_EX030_80_TR.mdlx
+   - name: obj/W_EX030_80_XM.mdlx
+   - name: obj/W_EX030_80_WI.mdlx
+   method: copy
+   source:
+     - name: obj/W_EX030_80.mdlx
+# Weapon A.US
+ - name: obj/W_EX030_84.a.us
+   multi:
+   - name: obj/W_EX030_84_NM.a.us 
+   - name: obj/W_EX030_84_TR.a.us 
+   - name: obj/W_EX030_84_WI.a.us 
+   method: copy
+   source:
+     - name: obj/W_EX030_84.a.us     
+# Weapon MDLX
+ - name: obj/W_EX030_84.mdlx
+   multi:
+   - name: obj/W_EX030_84_NM.mdlx
+   - name: obj/W_EX030_84_TR.mdlx
+   - name: obj/W_EX030_84_XM.mdlx
+   - name: obj/W_EX030_84_WI.mdlx
+   method: copy
+   source:
+     - name: obj/W_EX030_84.mdlx
+# Weapon A.US
+ - name: obj/W_EX030_90.a.us
+   multi:
+   - name: obj/W_EX030_90_NM.a.us 
+   - name: obj/W_EX030_90_TR.a.us 
+   - name: obj/W_EX030_90_WI.a.us 
+   method: copy
+   source:
+     - name: obj/W_EX030_90.a.us     
+# Weapon MDLX
+ - name: obj/W_EX030_90.mdlx
+   multi:
+   - name: obj/W_EX030_90_NM.mdlx
+   - name: obj/W_EX030_90_TR.mdlx
+   - name: obj/W_EX030_90_XM.mdlx
+   - name: obj/W_EX030_90_WI.mdlx
+   method: copy
+   source:
+     - name: obj/W_EX030_90.mdlx
+# Weapon A.US
+ - name: obj/W_EX030_A0.a.us
+   multi:
+   - name: obj/W_EX030_A0_NM.a.us 
+   - name: obj/W_EX030_A0_TR.a.us 
+   - name: obj/W_EX030_A0_WI.a.us 
+   method: copy
+   source:
+     - name: obj/W_EX030_A0.a.us     
+# Weapon MDLX
+ - name: obj/W_EX030_A0.mdlx
+   multi:
+   - name: obj/W_EX030_A0_NM.mdlx
+   - name: obj/W_EX030_A0_TR.mdlx
+   - name: obj/W_EX030_A0_XM.mdlx
+   - name: obj/W_EX030_A0_WI.mdlx
+   method: copy
+   source:
+     - name: obj/W_EX030_A0.mdlx
+# Weapon A.US
+ - name: obj/W_EX030_A4.a.us
+   multi:
+   - name: obj/W_EX030_A4_NM.a.us 
+   - name: obj/W_EX030_A4_TR.a.us 
+   - name: obj/W_EX030_A4_WI.a.us 
+   method: copy
+   source:
+     - name: obj/W_EX030_A4.a.us     
+# Weapon MDLX
+ - name: obj/W_EX030_A4.mdlx
+   multi:
+   - name: obj/W_EX030_A4_NM.mdlx
+   - name: obj/W_EX030_A4_TR.mdlx
+   - name: obj/W_EX030_A4_XM.mdlx
+   - name: obj/W_EX030_A4_WI.mdlx
+   method: copy
+   source:
+     - name: obj/W_EX030_A4.mdlx
+# Weapon A.US
+ - name: obj/W_EX030_B0.a.us
+   multi:
+   - name: obj/W_EX030_B0_NM.a.us 
+   - name: obj/W_EX030_B0_TR.a.us 
+   - name: obj/W_EX030_B0_WI.a.us 
+   method: copy
+   source:
+     - name: obj/W_EX030_B0.a.us     
+# Weapon MDLX
+ - name: obj/W_EX030_B0.mdlx
+   multi:
+   - name: obj/W_EX030_B0_NM.mdlx
+   - name: obj/W_EX030_B0_TR.mdlx
+   - name: obj/W_EX030_B0_XM.mdlx
+   - name: obj/W_EX030_B0_WI.mdlx
+   method: copy
+   source:
+     - name: obj/W_EX030_B0.mdlx
+# Weapon A.US
+ - name: obj/W_EX030_B4.a.us
+   multi:
+   - name: obj/W_EX030_B4_NM.a.us 
+   - name: obj/W_EX030_B4_TR.a.us 
+   - name: obj/W_EX030_B4_WI.a.us 
+   method: copy
+   source:
+     - name: obj/W_EX030_B4.a.us     
+# Weapon MDLX
+ - name: obj/W_EX030_B4.mdlx
+   multi:
+   - name: obj/W_EX030_B4_NM.mdlx
+   - name: obj/W_EX030_B4_TR.mdlx
+   - name: obj/W_EX030_B4_XM.mdlx
+   - name: obj/W_EX030_B4_WI.mdlx
+   method: copy
+   source:
+     - name: obj/W_EX030_B4.mdlx
+# Weapon A.US
+ - name: obj/W_EX030_C0.a.us
+   multi:
+   - name: obj/W_EX030_C0_NM.a.us 
+   - name: obj/W_EX030_C0_TR.a.us 
+   - name: obj/W_EX030_C0_WI.a.us 
+   method: copy
+   source:
+     - name: obj/W_EX030_C0.a.us     
+# Weapon MDLX
+ - name: obj/W_EX030_C0.mdlx
+   multi:
+   - name: obj/W_EX030_C0_NM.mdlx
+   - name: obj/W_EX030_C0_TR.mdlx
+   - name: obj/W_EX030_C0_XM.mdlx
+   - name: obj/W_EX030_C0_WI.mdlx
+   method: copy
+   source:
+     - name: obj/W_EX030_C0.mdlx
+# Weapon A.US
+ - name: obj/W_EX030_C4.a.us
+   multi:
+   - name: obj/W_EX030_C4_NM.a.us 
+   - name: obj/W_EX030_C4_TR.a.us 
+   - name: obj/W_EX030_C4_WI.a.us 
+   method: copy
+   source:
+     - name: obj/W_EX030_C4.a.us     
+# Weapon MDLX
+ - name: obj/W_EX030_C4.mdlx
+   multi:
+   - name: obj/W_EX030_C4_NM.mdlx
+   - name: obj/W_EX030_C4_TR.mdlx
+   - name: obj/W_EX030_C4_XM.mdlx
+   - name: obj/W_EX030_C4_WI.mdlx
+   method: copy
+   source:
+     - name: obj/W_EX030_C4.mdlx
+# Weapon A.US
+ - name: obj/W_EX030_C8.a.us
+   multi:
+   - name: obj/W_EX030_C8_NM.a.us 
+   - name: obj/W_EX030_C8_TR.a.us 
+   - name: obj/W_EX030_C8_WI.a.us 
+   method: copy
+   source:
+     - name: obj/W_EX030_C8.a.us     
+# Weapon MDLX
+ - name: obj/W_EX030_C8.mdlx
+   multi:
+   - name: obj/W_EX030_C8_NM.mdlx
+   - name: obj/W_EX030_C8_TR.mdlx
+   - name: obj/W_EX030_C8_XM.mdlx
+   - name: obj/W_EX030_C8_WI.mdlx
+   method: copy
+   source:
+     - name: obj/W_EX030_C8.mdlx
+# Weapon A.US
+ - name: obj/W_EX030_CC.a.us
+   multi:
+   - name: obj/W_EX030_CC_NM.a.us 
+   - name: obj/W_EX030_CC_TR.a.us 
+   - name: obj/W_EX030_CC_WI.a.us 
+   method: copy
+   source:
+     - name: obj/W_EX030_CC.a.us     
+# Weapon MDLX
+ - name: obj/W_EX030_CC.mdlx
+   multi:
+   - name: obj/W_EX030_CC_NM.mdlx
+   - name: obj/W_EX030_CC_TR.mdlx
+   - name: obj/W_EX030_CC_XM.mdlx
+   - name: obj/W_EX030_CC_WI.mdlx
+   method: copy
+   source:
+     - name: obj/W_EX030_CC.mdlx
+# Weapon A.US
+ - name: obj/W_EX030_CG.a.us
+   multi:
+   - name: obj/W_EX030_CG_NM.a.us 
+   - name: obj/W_EX030_CG_TR.a.us 
+   - name: obj/W_EX030_CG_WI.a.us 
+   method: copy
+   source:
+     - name: obj/W_EX030_CG.a.us     
+# Weapon MDLX
+ - name: obj/W_EX030_CG.mdlx
+   multi:
+   - name: obj/W_EX030_CG_NM.mdlx
+   - name: obj/W_EX030_CG_TR.mdlx
+   - name: obj/W_EX030_CG_XM.mdlx
+   - name: obj/W_EX030_CG_WI.mdlx
+   method: copy
+   source:
+     - name: obj/W_EX030_CG.mdlx   
 # Base Weapon MSET
  - name: obj/W_EX030.mset
    multi:
@@ -82,15 +457,6 @@ assets:
    method: copy
    source:
      - name: obj/W_EX030.mset
-# Base Weapon A.US
- - name: obj/W_EX030.a.us
-   multi:
-   - name: obj/W_EX030_NM.a.us 
-   - name: obj/W_EX030_TR.a.us 
-   - name: obj/W_EX030_WI.a.us 
-   method: copy
-   source:
-     - name: obj/W_EX030.a.us
 # RTN MDLX
  - name: obj/P_EX030_RTN.mdlx
    multi:
@@ -126,16 +492,206 @@ assets:
    method: copy
    source:
      - name: obj/P_EX030_RTN.mset
-# Base Itempic
+# Base Itempic (Knight's Shield)
  - name: itempic/item-080.imd
    method: copy
    source:
      - name: itempic/item-080.imd
-# Remastered Itempic
+# Remastered Itempic (Knight's Shield)
  - name: remastered/itempic/item-080.imd/-0.dds
    method: copy
    source:
      - name: remastered/itempic/item-080.imd/-0.dds
+# Base Itempic (Adamant Shield)
+ - name: itempic/item-081.imd
+   method: copy
+   source:
+     - name: itempic/item-081.imd
+# Remastered Itempic (Adamant Shield)
+ - name: remastered/itempic/item-081.imd/-0.dds
+   method: copy
+   source:
+     - name: remastered/itempic/item-081.imd/-0.dds
+# Base Itempic (Chain Gear)
+ - name: itempic/item-082.imd
+   method: copy
+   source:
+     - name: itempic/item-082.imd
+# Remastered Itempic (Chain Gear)
+ - name: remastered/itempic/item-082.imd/-0.dds
+   method: copy
+   source:
+     - name: remastered/itempic/item-082.imd/-0.dds
+# Base Itempic (Chain Gear)
+ - name: itempic/item-083.imd
+   method: copy
+   source:
+     - name: itempic/item-083.imd
+# Remastered Itempic (Chain Gear)
+ - name: remastered/itempic/item-083.imd/-0.dds
+   method: copy
+   source:
+     - name: remastered/itempic/item-083.imd/-0.dds
+# Base Itempic (Chain Gear)
+ - name: itempic/item-084.imd
+   method: copy
+   source:
+     - name: itempic/item-084.imd
+# Remastered Itempic (Chain Gear)
+ - name: remastered/itempic/item-084.imd/-0.dds
+   method: copy
+   source:
+     - name: remastered/itempic/item-084.imd/-0.dds
+# Base Itempic (Chain Gear)
+ - name: itempic/item-085.imd
+   method: copy
+   source:
+     - name: itempic/item-085.imd
+# Remastered Itempic (Chain Gear)
+ - name: remastered/itempic/item-085.imd/-0.dds
+   method: copy
+   source:
+     - name: remastered/itempic/item-085.imd/-0.dds
+# Base Itempic (Chain Gear)
+ - name: itempic/item-086.imd
+   method: copy
+   source:
+     - name: itempic/item-086.imd
+# Remastered Itempic (Chain Gear)
+ - name: remastered/itempic/item-086.imd/-0.dds
+   method: copy
+   source:
+     - name: remastered/itempic/item-086.imd/-0.dds
+# Base Itempic (Chain Gear)
+ - name: itempic/item-087.imd
+   method: copy
+   source:
+     - name: itempic/item-087.imd
+# Remastered Itempic (Chain Gear)
+ - name: remastered/itempic/item-087.imd/-0.dds
+   method: copy
+   source:
+     - name: remastered/itempic/item-087.imd/-0.dds
+# Base Itempic (Chain Gear)
+ - name: itempic/item-088.imd
+   method: copy
+   source:
+     - name: itempic/item-088.imd
+# Remastered Itempic (Chain Gear)
+ - name: remastered/itempic/item-088.imd/-0.dds
+   method: copy
+   source:
+     - name: remastered/itempic/item-088.imd/-0.dds
+# Base Itempic (Chain Gear)
+ - name: itempic/item-089.imd
+   method: copy
+   source:
+     - name: itempic/item-089.imd
+# Remastered Itempic (Chain Gear)
+ - name: remastered/itempic/item-089.imd/-0.dds
+   method: copy
+   source:
+     - name: remastered/itempic/item-089.imd/-0.dds
+# Base Itempic (Chain Gear)
+ - name: itempic/item-090.imd
+   method: copy
+   source:
+     - name: itempic/item-090.imd
+# Remastered Itempic (Chain Gear)
+ - name: remastered/itempic/item-090.imd/-0.dds
+   method: copy
+   source:
+     - name: remastered/itempic/item-090.imd/-0.dds
+# Base Itempic (Chain Gear)
+ - name: itempic/item-310.imd
+   method: copy
+   source:
+     - name: itempic/item-310.imd
+# Remastered Itempic (Chain Gear)
+ - name: remastered/itempic/item-310.imd/-0.dds
+   method: copy
+   source:
+     - name: remastered/itempic/item-310.imd/-0.dds
+# Base Itempic (Chain Gear)
+ - name: itempic/item-311.imd
+   method: copy
+   source:
+     - name: itempic/item-311.imd
+# Remastered Itempic (Chain Gear)
+ - name: remastered/itempic/item-311.imd/-0.dds
+   method: copy
+   source:
+     - name: remastered/itempic/item-311.imd/-0.dds
+# Base Itempic (Chain Gear)
+ - name: itempic/item-312.imd
+   method: copy
+   source:
+     - name: itempic/item-312.imd
+# Remastered Itempic (Chain Gear)
+ - name: remastered/itempic/item-312.imd/-0.dds
+   method: copy
+   source:
+     - name: remastered/itempic/item-312.imd/-0.dds
+# Base Itempic (Chain Gear)
+ - name: itempic/item-313.imd
+   method: copy
+   source:
+     - name: itempic/item-313.imd
+# Remastered Itempic (Chain Gear)
+ - name: remastered/itempic/item-313.imd/-0.dds
+   method: copy
+   source:
+     - name: remastered/itempic/item-313.imd/-0.dds
+# Base Itempic (Chain Gear)
+ - name: itempic/item-314.imd
+   method: copy
+   source:
+     - name: itempic/item-314.imd
+# Remastered Itempic (Chain Gear)
+ - name: remastered/itempic/item-314.imd/-0.dds
+   method: copy
+   source:
+     - name: remastered/itempic/item-314.imd/-0.dds
+# Base Itempic (Chain Gear)
+ - name: itempic/item-315.imd
+   method: copy
+   source:
+     - name: itempic/item-315.imd
+# Remastered Itempic (Chain Gear)
+ - name: remastered/itempic/item-315.imd/-0.dds
+   method: copy
+   source:
+     - name: remastered/itempic/item-315.imd/-0.dds
+# Base Itempic (Chain Gear)
+ - name: itempic/item-316.imd
+   method: copy
+   source:
+     - name: itempic/item-316.imd
+# Remastered Itempic (Chain Gear)
+ - name: remastered/itempic/item-316.imd/-0.dds
+   method: copy
+   source:
+     - name: remastered/itempic/item-316.imd/-0.dds
+# Base Itempic (Chain Gear)
+ - name: itempic/item-317.imd
+   method: copy
+   source:
+     - name: itempic/item-317.imd
+# Remastered Itempic (Chain Gear)
+ - name: remastered/itempic/item-317.imd/-0.dds
+   method: copy
+   source:
+     - name: remastered/itempic/item-317.imd/-0.dds
+# Base Itempic (Chain Gear)
+ - name: itempic/item-319.imd
+   method: copy
+   source:
+     - name: itempic/item-319.imd
+# Remastered Itempic (Chain Gear)
+ - name: remastered/itempic/item-319.imd/-0.dds
+   method: copy
+   source:
+     - name: remastered/itempic/item-319.imd/-0.dds     
 # -0.DDS (P_EX030)  
  - name: remastered/obj/P_EX030.a.us/-0.dds
    multi:
@@ -474,6 +1030,19 @@ assets:
    method: copy
    source:
      - name: remastered/obj/P_EX030.a.us/-25.dds     
+# -26.DDS (P_EX030)
+ - name: remastered/obj/P_EX030.a.us/-26.dds
+   multi:
+   - name: remastered/obj/P_EX030_NM.a.us/-26.dds 
+   - name: remastered/obj/P_EX030_CM.a.us/-26.dds 
+   - name: remastered/obj/P_EX030_DC.a.us/-26.dds 
+   - name: remastered/obj/P_EX030_TR.a.us/-26.dds
+   - name: remastered/obj/P_EX030_XM.a.us/-26.dds
+   - name: remastered/obj/P_LK030.a.us/-26.dds 
+   - name: remastered/obj/P_WI030.a.us/-26.dds 
+   method: copy
+   source:
+     - name: remastered/obj/P_EX030.a.us/-26.dds
 # -0.DDS (W_EX030)  
  - name: remastered/obj/W_EX030.a.us/-0.dds
    multi:
@@ -483,15 +1052,843 @@ assets:
    method: copy
    source:
      - name: remastered/obj/W_EX030.a.us/-0.dds    
-# Keyblade Sounds
- - name: remastered/obj/W_EX030.a.us/se/obj/se500
+# -0.DDS (W_EX030_10)  
+ - name: remastered/obj/W_EX030_10.a.us/-0.dds
    multi:
-   - name: remastered/obj/W_EX030_NM.a.us/se/obj/se500
-   - name: remastered/obj/W_EX030_TR.a.us/se/obj/se500
-   - name: remastered/obj/W_EX030_WI.a.us/se/obj/se500
+   - name: remastered/obj/W_EX030_10_NM.a.us/-0.dds
+   - name: remastered/obj/W_EX030_10_TR.a.us/-0.dds
+   - name: remastered/obj/W_EX030_10_WI.a.us/-0.dds
    method: copy
    source:
-     - name: remastered/obj/W_EX030.a.us/se/obj/se500       
+     - name: remastered/obj/W_EX030_10.a.us/-0.dds 
+# -1.DDS (W_EX030_10)  
+ - name: remastered/obj/W_EX030_10.a.us/-1.dds
+   multi:
+   - name: remastered/obj/W_EX030_10_NM.a.us/-1.dds
+   - name: remastered/obj/W_EX030_10_TR.a.us/-1.dds
+   - name: remastered/obj/W_EX030_10_WI.a.us/-1.dds
+   method: copy
+   source:
+     - name: remastered/obj/W_EX030_10.a.us/-1.dds  	 
+# -0.DDS (W_EX030_20)  
+ - name: remastered/obj/W_EX030_20.a.us/-0.dds
+   multi:
+   - name: remastered/obj/W_EX030_20_NM.a.us/-0.dds
+   - name: remastered/obj/W_EX030_20_TR.a.us/-0.dds
+   - name: remastered/obj/W_EX030_20_WI.a.us/-0.dds
+   method: copy
+   source:
+     - name: remastered/obj/W_EX030_20.a.us/-0.dds 
+# -1.DDS (W_EX030_20)  
+ - name: remastered/obj/W_EX030_20.a.us/-1.dds
+   multi:
+   - name: remastered/obj/W_EX030_20_NM.a.us/-1.dds
+   - name: remastered/obj/W_EX030_20_TR.a.us/-1.dds
+   - name: remastered/obj/W_EX030_20_WI.a.us/-1.dds
+   method: copy
+   source:
+     - name: remastered/obj/W_EX030_20.a.us/-1.dds
+# -2.DDS (W_EX030_20)  
+ - name: remastered/obj/W_EX030_20.a.us/-2.dds
+   multi:
+   - name: remastered/obj/W_EX030_20_NM.a.us/-2.dds
+   - name: remastered/obj/W_EX030_20_TR.a.us/-2.dds
+   - name: remastered/obj/W_EX030_20_WI.a.us/-2.dds
+   method: copy
+   source:
+     - name: remastered/obj/W_EX030_20.a.us/-2.dds
+# -3.DDS (W_EX030_20)  
+ - name: remastered/obj/W_EX030_20.a.us/-3.dds
+   multi:
+   - name: remastered/obj/W_EX030_20_NM.a.us/-3.dds
+   - name: remastered/obj/W_EX030_20_TR.a.us/-3.dds
+   - name: remastered/obj/W_EX030_20_WI.a.us/-3.dds
+   method: copy
+   source:
+     - name: remastered/obj/W_EX030_20.a.us/-3.dds
+# -0.DDS (W_EX030_30)  
+ - name: remastered/obj/W_EX030_30.a.us/-0.dds
+   multi:
+   - name: remastered/obj/W_EX030_30_NM.a.us/-0.dds
+   - name: remastered/obj/W_EX030_30_TR.a.us/-0.dds
+   - name: remastered/obj/W_EX030_30_WI.a.us/-0.dds
+   method: copy
+   source:
+     - name: remastered/obj/W_EX030_30.a.us/-0.dds 
+# -1.DDS (W_EX030_30)  
+ - name: remastered/obj/W_EX030_30.a.us/-1.dds
+   multi:
+   - name: remastered/obj/W_EX030_30_NM.a.us/-1.dds
+   - name: remastered/obj/W_EX030_30_TR.a.us/-1.dds
+   - name: remastered/obj/W_EX030_30_WI.a.us/-1.dds
+   method: copy
+   source:
+     - name: remastered/obj/W_EX030_30.a.us/-1.dds
+# -2.DDS (W_EX030_30)  
+ - name: remastered/obj/W_EX030_30.a.us/-2.dds
+   multi:
+   - name: remastered/obj/W_EX030_30_NM.a.us/-2.dds
+   - name: remastered/obj/W_EX030_30_TR.a.us/-2.dds
+   - name: remastered/obj/W_EX030_30_WI.a.us/-2.dds
+   method: copy
+   source:
+     - name: remastered/obj/W_EX030_30.a.us/-2.dds
+# -3.DDS (W_EX030_30)  
+ - name: remastered/obj/W_EX030_30.a.us/-3.dds
+   multi:
+   - name: remastered/obj/W_EX030_30_NM.a.us/-3.dds
+   - name: remastered/obj/W_EX030_30_TR.a.us/-3.dds
+   - name: remastered/obj/W_EX030_30_WI.a.us/-3.dds
+   method: copy
+   source:
+     - name: remastered/obj/W_EX030_30.a.us/-3.dds
+# -0.DDS (W_EX030_40)  
+ - name: remastered/obj/W_EX030_40.a.us/-0.dds
+   multi:
+   - name: remastered/obj/W_EX030_40_NM.a.us/-0.dds
+   - name: remastered/obj/W_EX030_40_TR.a.us/-0.dds
+   - name: remastered/obj/W_EX030_40_WI.a.us/-0.dds
+   method: copy
+   source:
+     - name: remastered/obj/W_EX030_40.a.us/-0.dds 
+# -1.DDS (W_EX030_40)  
+ - name: remastered/obj/W_EX030_40.a.us/-1.dds
+   multi:
+   - name: remastered/obj/W_EX030_40_NM.a.us/-1.dds
+   - name: remastered/obj/W_EX030_40_TR.a.us/-1.dds
+   - name: remastered/obj/W_EX030_40_WI.a.us/-1.dds
+   method: copy
+   source:
+     - name: remastered/obj/W_EX030_40.a.us/-1.dds
+# -2.DDS (W_EX030_40)  
+ - name: remastered/obj/W_EX030_40.a.us/-2.dds
+   multi:
+   - name: remastered/obj/W_EX030_40_NM.a.us/-2.dds
+   - name: remastered/obj/W_EX030_40_TR.a.us/-2.dds
+   - name: remastered/obj/W_EX030_40_WI.a.us/-2.dds
+   method: copy
+   source:
+     - name: remastered/obj/W_EX030_40.a.us/-2.dds
+# -3.DDS (W_EX030_40)  
+ - name: remastered/obj/W_EX030_40.a.us/-3.dds
+   multi:
+   - name: remastered/obj/W_EX030_40_NM.a.us/-3.dds
+   - name: remastered/obj/W_EX030_40_TR.a.us/-3.dds
+   - name: remastered/obj/W_EX030_40_WI.a.us/-3.dds
+   method: copy
+   source:
+     - name: remastered/obj/W_EX030_40.a.us/-3.dds
+# -0.DDS (W_EX030_50)  
+ - name: remastered/obj/W_EX030_50.a.us/-0.dds
+   multi:
+   - name: remastered/obj/W_EX030_50_NM.a.us/-0.dds
+   - name: remastered/obj/W_EX030_50_TR.a.us/-0.dds
+   - name: remastered/obj/W_EX030_50_WI.a.us/-0.dds
+   method: copy
+   source:
+     - name: remastered/obj/W_EX030_50.a.us/-0.dds 
+# -1.DDS (W_EX030_50)  
+ - name: remastered/obj/W_EX030_50.a.us/-1.dds
+   multi:
+   - name: remastered/obj/W_EX030_50_NM.a.us/-1.dds
+   - name: remastered/obj/W_EX030_50_TR.a.us/-1.dds
+   - name: remastered/obj/W_EX030_50_WI.a.us/-1.dds
+   method: copy
+   source:
+     - name: remastered/obj/W_EX030_50.a.us/-1.dds
+# -2.DDS (W_EX030_50)  
+ - name: remastered/obj/W_EX030_50.a.us/-2.dds
+   multi:
+   - name: remastered/obj/W_EX030_50_NM.a.us/-2.dds
+   - name: remastered/obj/W_EX030_50_TR.a.us/-2.dds
+   - name: remastered/obj/W_EX030_50_WI.a.us/-2.dds
+   method: copy
+   source:
+     - name: remastered/obj/W_EX030_50.a.us/-2.dds
+# -3.DDS (W_EX030_50)  
+ - name: remastered/obj/W_EX030_50.a.us/-3.dds
+   multi:
+   - name: remastered/obj/W_EX030_50_NM.a.us/-3.dds
+   - name: remastered/obj/W_EX030_50_TR.a.us/-3.dds
+   - name: remastered/obj/W_EX030_50_WI.a.us/-3.dds
+   method: copy
+   source:
+     - name: remastered/obj/W_EX030_50.a.us/-3.dds
+# -0.DDS (W_EX030_60)  
+ - name: remastered/obj/W_EX030_60.a.us/-0.dds
+   multi:
+   - name: remastered/obj/W_EX030_60_NM.a.us/-0.dds
+   - name: remastered/obj/W_EX030_60_TR.a.us/-0.dds
+   - name: remastered/obj/W_EX030_60_WI.a.us/-0.dds
+   method: copy
+   source:
+     - name: remastered/obj/W_EX030_60.a.us/-0.dds 
+# -1.DDS (W_EX030_60)  
+ - name: remastered/obj/W_EX030_60.a.us/-1.dds
+   multi:
+   - name: remastered/obj/W_EX030_60_NM.a.us/-1.dds
+   - name: remastered/obj/W_EX030_60_TR.a.us/-1.dds
+   - name: remastered/obj/W_EX030_60_WI.a.us/-1.dds
+   method: copy
+   source:
+     - name: remastered/obj/W_EX030_60.a.us/-1.dds
+# -0.DDS (W_EX030_70)  
+ - name: remastered/obj/W_EX030_70.a.us/-0.dds
+   multi:
+   - name: remastered/obj/W_EX030_70_NM.a.us/-0.dds
+   - name: remastered/obj/W_EX030_70_TR.a.us/-0.dds
+   - name: remastered/obj/W_EX030_70_WI.a.us/-0.dds
+   method: copy
+   source:
+     - name: remastered/obj/W_EX030_70.a.us/-0.dds 
+# -1.DDS (W_EX030_70)  
+ - name: remastered/obj/W_EX030_70.a.us/-1.dds
+   multi:
+   - name: remastered/obj/W_EX030_70_NM.a.us/-1.dds
+   - name: remastered/obj/W_EX030_70_TR.a.us/-1.dds
+   - name: remastered/obj/W_EX030_70_WI.a.us/-1.dds
+   method: copy
+   source:
+     - name: remastered/obj/W_EX030_70.a.us/-1.dds
+# -0.DDS (W_EX030_80)  
+ - name: remastered/obj/W_EX030_80.a.us/-0.dds
+   multi:
+   - name: remastered/obj/W_EX030_80_NM.a.us/-0.dds
+   - name: remastered/obj/W_EX030_80_TR.a.us/-0.dds
+   - name: remastered/obj/W_EX030_80_WI.a.us/-0.dds
+   method: copy
+   source:
+     - name: remastered/obj/W_EX030_80.a.us/-0.dds 
+# -1.DDS (W_EX030_80)  
+ - name: remastered/obj/W_EX030_80.a.us/-1.dds
+   multi:
+   - name: remastered/obj/W_EX030_80_NM.a.us/-1.dds
+   - name: remastered/obj/W_EX030_80_TR.a.us/-1.dds
+   - name: remastered/obj/W_EX030_80_WI.a.us/-1.dds
+   method: copy
+   source:
+     - name: remastered/obj/W_EX030_80.a.us/-1.dds
+# -2.DDS (W_EX030_80)  
+ - name: remastered/obj/W_EX030_80.a.us/-2.dds
+   multi:
+   - name: remastered/obj/W_EX030_80_NM.a.us/-2.dds
+   - name: remastered/obj/W_EX030_80_TR.a.us/-2.dds
+   - name: remastered/obj/W_EX030_80_WI.a.us/-2.dds
+   method: copy
+   source:
+     - name: remastered/obj/W_EX030_80.a.us/-2.dds
+# -3.DDS (W_EX030_80)  
+ - name: remastered/obj/W_EX030_80.a.us/-3.dds
+   multi:
+   - name: remastered/obj/W_EX030_80_NM.a.us/-3.dds
+   - name: remastered/obj/W_EX030_80_TR.a.us/-3.dds
+   - name: remastered/obj/W_EX030_80_WI.a.us/-3.dds
+   method: copy
+   source:
+     - name: remastered/obj/W_EX030_80.a.us/-3.dds
+# -0.DDS (W_EX030_84)  
+ - name: remastered/obj/W_EX030_84.a.us/-0.dds
+   multi:
+   - name: remastered/obj/W_EX030_84_NM.a.us/-0.dds
+   - name: remastered/obj/W_EX030_84_TR.a.us/-0.dds
+   - name: remastered/obj/W_EX030_84_WI.a.us/-0.dds
+   method: copy
+   source:
+     - name: remastered/obj/W_EX030_84.a.us/-0.dds 
+# -1.DDS (W_EX030_84)  
+ - name: remastered/obj/W_EX030_84.a.us/-1.dds
+   multi:
+   - name: remastered/obj/W_EX030_84_NM.a.us/-1.dds
+   - name: remastered/obj/W_EX030_84_TR.a.us/-1.dds
+   - name: remastered/obj/W_EX030_84_WI.a.us/-1.dds
+   method: copy
+   source:
+     - name: remastered/obj/W_EX030_84.a.us/-1.dds
+# -2.DDS (W_EX030_84)  
+ - name: remastered/obj/W_EX030_84.a.us/-2.dds
+   multi:
+   - name: remastered/obj/W_EX030_84_NM.a.us/-2.dds
+   - name: remastered/obj/W_EX030_84_TR.a.us/-2.dds
+   - name: remastered/obj/W_EX030_84_WI.a.us/-2.dds
+   method: copy
+   source:
+     - name: remastered/obj/W_EX030_84.a.us/-2.dds
+# -3.DDS (W_EX030_84)  
+ - name: remastered/obj/W_EX030_84.a.us/-3.dds
+   multi:
+   - name: remastered/obj/W_EX030_84_NM.a.us/-3.dds
+   - name: remastered/obj/W_EX030_84_TR.a.us/-3.dds
+   - name: remastered/obj/W_EX030_84_WI.a.us/-3.dds
+   method: copy
+   source:
+     - name: remastered/obj/W_EX030_84.a.us/-3.dds
+# -0.DDS (W_EX030_90)  
+ - name: remastered/obj/W_EX030_90.a.us/-0.dds
+   multi:
+   - name: remastered/obj/W_EX030_90_NM.a.us/-0.dds
+   - name: remastered/obj/W_EX030_90_TR.a.us/-0.dds
+   - name: remastered/obj/W_EX030_90_WI.a.us/-0.dds
+   method: copy
+   source:
+     - name: remastered/obj/W_EX030_90.a.us/-0.dds 
+# -1.DDS (W_EX030_90)  
+ - name: remastered/obj/W_EX030_90.a.us/-1.dds
+   multi:
+   - name: remastered/obj/W_EX030_90_NM.a.us/-1.dds
+   - name: remastered/obj/W_EX030_90_TR.a.us/-1.dds
+   - name: remastered/obj/W_EX030_90_WI.a.us/-1.dds
+   method: copy
+   source:
+     - name: remastered/obj/W_EX030_90.a.us/-1.dds
+# -2.DDS (W_EX030_90)  
+ - name: remastered/obj/W_EX030_90.a.us/-2.dds
+   multi:
+   - name: remastered/obj/W_EX030_90_NM.a.us/-2.dds
+   - name: remastered/obj/W_EX030_90_TR.a.us/-2.dds
+   - name: remastered/obj/W_EX030_90_WI.a.us/-2.dds
+   method: copy
+   source:
+     - name: remastered/obj/W_EX030_90.a.us/-2.dds
+# -3.DDS (W_EX030_90)  
+ - name: remastered/obj/W_EX030_90.a.us/-3.dds
+   multi:
+   - name: remastered/obj/W_EX030_90_NM.a.us/-3.dds
+   - name: remastered/obj/W_EX030_90_TR.a.us/-3.dds
+   - name: remastered/obj/W_EX030_90_WI.a.us/-3.dds
+   method: copy
+   source:
+     - name: remastered/obj/W_EX030_90.a.us/-3.dds
+# -0.DDS (W_EX030_A0)  
+ - name: remastered/obj/W_EX030_A0.a.us/-0.dds
+   multi:
+   - name: remastered/obj/W_EX030_A0_NM.a.us/-0.dds
+   - name: remastered/obj/W_EX030_A0_TR.a.us/-0.dds
+   - name: remastered/obj/W_EX030_A0_WI.a.us/-0.dds
+   method: copy
+   source:
+     - name: remastered/obj/W_EX030_A0.a.us/-0.dds 
+# -1.DDS (W_EX030_A0)  
+ - name: remastered/obj/W_EX030_A0.a.us/-1.dds
+   multi:
+   - name: remastered/obj/W_EX030_A0_NM.a.us/-1.dds
+   - name: remastered/obj/W_EX030_A0_TR.a.us/-1.dds
+   - name: remastered/obj/W_EX030_A0_WI.a.us/-1.dds
+   method: copy
+   source:
+     - name: remastered/obj/W_EX030_A0.a.us/-1.dds
+# -2.DDS (W_EX030_A0)  
+ - name: remastered/obj/W_EX030_A0.a.us/-2.dds
+   multi:
+   - name: remastered/obj/W_EX030_A0_NM.a.us/-2.dds
+   - name: remastered/obj/W_EX030_A0_TR.a.us/-2.dds
+   - name: remastered/obj/W_EX030_A0_WI.a.us/-2.dds
+   method: copy
+   source:
+     - name: remastered/obj/W_EX030_A0.a.us/-2.dds
+# -3.DDS (W_EX030_A0)  
+ - name: remastered/obj/W_EX030_A0.a.us/-3.dds
+   multi:
+   - name: remastered/obj/W_EX030_A0_NM.a.us/-3.dds
+   - name: remastered/obj/W_EX030_A0_TR.a.us/-3.dds
+   - name: remastered/obj/W_EX030_A0_WI.a.us/-3.dds
+   method: copy
+   source:
+     - name: remastered/obj/W_EX030_A0.a.us/-3.dds
+# -4.DDS (W_EX030_A0)  
+ - name: remastered/obj/W_EX030_A0.a.us/-4.dds
+   multi:
+   - name: remastered/obj/W_EX030_A0_NM.a.us/-4.dds
+   - name: remastered/obj/W_EX030_A0_TR.a.us/-4.dds
+   - name: remastered/obj/W_EX030_A0_WI.a.us/-4.dds
+   method: copy
+   source:
+     - name: remastered/obj/W_EX030_A0.a.us/-4.dds	 
+# -5.DDS (W_EX030_A0)  
+ - name: remastered/obj/W_EX030_A0.a.us/-5.dds
+   multi:
+   - name: remastered/obj/W_EX030_A0_NM.a.us/-5.dds
+   - name: remastered/obj/W_EX030_A0_TR.a.us/-5.dds
+   - name: remastered/obj/W_EX030_A0_WI.a.us/-5.dds
+   method: copy
+   source:
+     - name: remastered/obj/W_EX030_A0.a.us/-5.dds	 
+# -6.DDS (W_EX030_A0)  
+ - name: remastered/obj/W_EX030_A0.a.us/-6.dds
+   multi:
+   - name: remastered/obj/W_EX030_A0_NM.a.us/-6.dds
+   - name: remastered/obj/W_EX030_A0_TR.a.us/-6.dds
+   - name: remastered/obj/W_EX030_A0_WI.a.us/-6.dds
+   method: copy
+   source:
+     - name: remastered/obj/W_EX030_A0.a.us/-6.dds	 
+# -0.DDS (W_EX030_A4)  
+ - name: remastered/obj/W_EX030_A4.a.us/-0.dds
+   multi:
+   - name: remastered/obj/W_EX030_A4_NM.a.us/-0.dds
+   - name: remastered/obj/W_EX030_A4_TR.a.us/-0.dds
+   - name: remastered/obj/W_EX030_A4_WI.a.us/-0.dds
+   method: copy
+   source:
+     - name: remastered/obj/W_EX030_A4.a.us/-0.dds 
+# -1.DDS (W_EX030_A4)  
+ - name: remastered/obj/W_EX030_A4.a.us/-1.dds
+   multi:
+   - name: remastered/obj/W_EX030_A4_NM.a.us/-1.dds
+   - name: remastered/obj/W_EX030_A4_TR.a.us/-1.dds
+   - name: remastered/obj/W_EX030_A4_WI.a.us/-1.dds
+   method: copy
+   source:
+     - name: remastered/obj/W_EX030_A4.a.us/-1.dds
+# -0.DDS (W_EX030_B0)  
+ - name: remastered/obj/W_EX030_B0.a.us/-0.dds
+   multi:
+   - name: remastered/obj/W_EX030_B0_NM.a.us/-0.dds
+   - name: remastered/obj/W_EX030_B0_TR.a.us/-0.dds
+   - name: remastered/obj/W_EX030_B0_WI.a.us/-0.dds
+   method: copy
+   source:
+     - name: remastered/obj/W_EX030_B0.a.us/-0.dds 
+# -1.DDS (W_EX030_B0)  
+ - name: remastered/obj/W_EX030_B0.a.us/-1.dds
+   multi:
+   - name: remastered/obj/W_EX030_B0_NM.a.us/-1.dds
+   - name: remastered/obj/W_EX030_B0_TR.a.us/-1.dds
+   - name: remastered/obj/W_EX030_B0_WI.a.us/-1.dds
+   method: copy
+   source:
+     - name: remastered/obj/W_EX030_B0.a.us/-1.dds
+# -2.DDS (W_EX030_B0)  
+ - name: remastered/obj/W_EX030_B0.a.us/-2.dds
+   multi:
+   - name: remastered/obj/W_EX030_B0_NM.a.us/-2.dds
+   - name: remastered/obj/W_EX030_B0_TR.a.us/-2.dds
+   - name: remastered/obj/W_EX030_B0_WI.a.us/-2.dds
+   method: copy
+   source:
+     - name: remastered/obj/W_EX030_B0.a.us/-2.dds
+# -3.DDS (W_EX030_B0)  
+ - name: remastered/obj/W_EX030_B0.a.us/-3.dds
+   multi:
+   - name: remastered/obj/W_EX030_B0_NM.a.us/-3.dds
+   - name: remastered/obj/W_EX030_B0_TR.a.us/-3.dds
+   - name: remastered/obj/W_EX030_B0_WI.a.us/-3.dds
+   method: copy
+   source:
+     - name: remastered/obj/W_EX030_B0.a.us/-3.dds
+# -4.DDS (W_EX030_B0)  
+ - name: remastered/obj/W_EX030_B0.a.us/-4.dds
+   multi:
+   - name: remastered/obj/W_EX030_B0_NM.a.us/-4.dds
+   - name: remastered/obj/W_EX030_B0_TR.a.us/-4.dds
+   - name: remastered/obj/W_EX030_B0_WI.a.us/-4.dds
+   method: copy
+   source:
+     - name: remastered/obj/W_EX030_B0.a.us/-4.dds	 
+# -5.DDS (W_EX030_B0)  
+ - name: remastered/obj/W_EX030_B0.a.us/-5.dds
+   multi:
+   - name: remastered/obj/W_EX030_B0_NM.a.us/-5.dds
+   - name: remastered/obj/W_EX030_B0_TR.a.us/-5.dds
+   - name: remastered/obj/W_EX030_B0_WI.a.us/-5.dds
+   method: copy
+   source:
+     - name: remastered/obj/W_EX030_B0.a.us/-5.dds	 
+# -6.DDS (W_EX030_B0)  
+ - name: remastered/obj/W_EX030_B0.a.us/-6.dds
+   multi:
+   - name: remastered/obj/W_EX030_B0_NM.a.us/-6.dds
+   - name: remastered/obj/W_EX030_B0_TR.a.us/-6.dds
+   - name: remastered/obj/W_EX030_B0_WI.a.us/-6.dds
+   method: copy
+   source:
+     - name: remastered/obj/W_EX030_B0.a.us/-6.dds	 
+# -0.DDS (W_EX030_B4)  
+ - name: remastered/obj/W_EX030_B4.a.us/-0.dds
+   multi:
+   - name: remastered/obj/W_EX030_B4_NM.a.us/-0.dds
+   - name: remastered/obj/W_EX030_B4_TR.a.us/-0.dds
+   - name: remastered/obj/W_EX030_B4_WI.a.us/-0.dds
+   method: copy
+   source:
+     - name: remastered/obj/W_EX030_B4.a.us/-0.dds 
+# -1.DDS (W_EX030_B4)  
+ - name: remastered/obj/W_EX030_B4.a.us/-1.dds
+   multi:
+   - name: remastered/obj/W_EX030_B4_NM.a.us/-1.dds
+   - name: remastered/obj/W_EX030_B4_TR.a.us/-1.dds
+   - name: remastered/obj/W_EX030_B4_WI.a.us/-1.dds
+   method: copy
+   source:
+     - name: remastered/obj/W_EX030_B4.a.us/-1.dds
+# -2.DDS (W_EX030_B4)  
+ - name: remastered/obj/W_EX030_B4.a.us/-2.dds
+   multi:
+   - name: remastered/obj/W_EX030_B4_NM.a.us/-2.dds
+   - name: remastered/obj/W_EX030_B4_TR.a.us/-2.dds
+   - name: remastered/obj/W_EX030_B4_WI.a.us/-2.dds
+   method: copy
+   source:
+     - name: remastered/obj/W_EX030_B4.a.us/-2.dds
+# -3.DDS (W_EX030_B4)  
+ - name: remastered/obj/W_EX030_B4.a.us/-3.dds
+   multi:
+   - name: remastered/obj/W_EX030_B4_NM.a.us/-3.dds
+   - name: remastered/obj/W_EX030_B4_TR.a.us/-3.dds
+   - name: remastered/obj/W_EX030_B4_WI.a.us/-3.dds
+   method: copy
+   source:
+     - name: remastered/obj/W_EX030_B4.a.us/-3.dds
+# -0.DDS (W_EX030_C0)  
+ - name: remastered/obj/W_EX030_C0.a.us/-0.dds
+   multi:
+   - name: remastered/obj/W_EX030_C0_NM.a.us/-0.dds
+   - name: remastered/obj/W_EX030_C0_TR.a.us/-0.dds
+   - name: remastered/obj/W_EX030_C0_WI.a.us/-0.dds
+   method: copy
+   source:
+     - name: remastered/obj/W_EX030_C0.a.us/-0.dds 
+# -1.DDS (W_EX030_C0)  
+ - name: remastered/obj/W_EX030_C0.a.us/-1.dds
+   multi:
+   - name: remastered/obj/W_EX030_C0_NM.a.us/-1.dds
+   - name: remastered/obj/W_EX030_C0_TR.a.us/-1.dds
+   - name: remastered/obj/W_EX030_C0_WI.a.us/-1.dds
+   method: copy
+   source:
+     - name: remastered/obj/W_EX030_C0.a.us/-1.dds
+# -0.DDS (W_EX030_C4)  
+ - name: remastered/obj/W_EX030_C4.a.us/-0.dds
+   multi:
+   - name: remastered/obj/W_EX030_C4_NM.a.us/-0.dds
+   - name: remastered/obj/W_EX030_C4_TR.a.us/-0.dds
+   - name: remastered/obj/W_EX030_C4_WI.a.us/-0.dds
+   method: copy
+   source:
+     - name: remastered/obj/W_EX030_C4.a.us/-0.dds 
+# -1.DDS (W_EX030_C4)  
+ - name: remastered/obj/W_EX030_C4.a.us/-1.dds
+   multi:
+   - name: remastered/obj/W_EX030_C4_NM.a.us/-1.dds
+   - name: remastered/obj/W_EX030_C4_TR.a.us/-1.dds
+   - name: remastered/obj/W_EX030_C4_WI.a.us/-1.dds
+   method: copy
+   source:
+     - name: remastered/obj/W_EX030_C4.a.us/-1.dds
+# -2.DDS (W_EX030_C4)  
+ - name: remastered/obj/W_EX030_C4.a.us/-2.dds
+   multi:
+   - name: remastered/obj/W_EX030_C4_NM.a.us/-2.dds
+   - name: remastered/obj/W_EX030_C4_TR.a.us/-2.dds
+   - name: remastered/obj/W_EX030_C4_WI.a.us/-2.dds
+   method: copy
+   source:
+     - name: remastered/obj/W_EX030_C4.a.us/-2.dds
+# -3.DDS (W_EX030_C4)  
+ - name: remastered/obj/W_EX030_C4.a.us/-3.dds
+   multi:
+   - name: remastered/obj/W_EX030_C4_NM.a.us/-3.dds
+   - name: remastered/obj/W_EX030_C4_TR.a.us/-3.dds
+   - name: remastered/obj/W_EX030_C4_WI.a.us/-3.dds
+   method: copy
+   source:
+     - name: remastered/obj/W_EX030_C4.a.us/-3.dds
+# -0.DDS (W_EX030_C8)  
+ - name: remastered/obj/W_EX030_C8.a.us/-0.dds
+   multi:
+   - name: remastered/obj/W_EX030_C8_NM.a.us/-0.dds
+   - name: remastered/obj/W_EX030_C8_TR.a.us/-0.dds
+   - name: remastered/obj/W_EX030_C8_WI.a.us/-0.dds
+   method: copy
+   source:
+     - name: remastered/obj/W_EX030_C8.a.us/-0.dds 
+# -1.DDS (W_EX030_C8)  
+ - name: remastered/obj/W_EX030_C8.a.us/-1.dds
+   multi:
+   - name: remastered/obj/W_EX030_C8_NM.a.us/-1.dds
+   - name: remastered/obj/W_EX030_C8_TR.a.us/-1.dds
+   - name: remastered/obj/W_EX030_C8_WI.a.us/-1.dds
+   method: copy
+   source:
+     - name: remastered/obj/W_EX030_C8.a.us/-1.dds
+# -2.DDS (W_EX030_C8)  
+ - name: remastered/obj/W_EX030_C8.a.us/-2.dds
+   multi:
+   - name: remastered/obj/W_EX030_C8_NM.a.us/-2.dds
+   - name: remastered/obj/W_EX030_C8_TR.a.us/-2.dds
+   - name: remastered/obj/W_EX030_C8_WI.a.us/-2.dds
+   method: copy
+   source:
+     - name: remastered/obj/W_EX030_C8.a.us/-2.dds
+# -0.DDS (W_EX030_CC)  
+ - name: remastered/obj/W_EX030_CC.a.us/-0.dds
+   multi:
+   - name: remastered/obj/W_EX030_CC_NM.a.us/-0.dds
+   - name: remastered/obj/W_EX030_CC_TR.a.us/-0.dds
+   - name: remastered/obj/W_EX030_CC_WI.a.us/-0.dds
+   method: copy
+   source:
+     - name: remastered/obj/W_EX030_CC.a.us/-0.dds 
+# -1.DDS (W_EX030_CC)  
+ - name: remastered/obj/W_EX030_CC.a.us/-1.dds
+   multi:
+   - name: remastered/obj/W_EX030_CC_NM.a.us/-1.dds
+   - name: remastered/obj/W_EX030_CC_TR.a.us/-1.dds
+   - name: remastered/obj/W_EX030_CC_WI.a.us/-1.dds
+   method: copy
+   source:
+     - name: remastered/obj/W_EX030_CC.a.us/-1.dds
+# -2.DDS (W_EX030_CC)  
+ - name: remastered/obj/W_EX030_CC.a.us/-2.dds
+   multi:
+   - name: remastered/obj/W_EX030_CC_NM.a.us/-2.dds
+   - name: remastered/obj/W_EX030_CC_TR.a.us/-2.dds
+   - name: remastered/obj/W_EX030_CC_WI.a.us/-2.dds
+   method: copy
+   source:
+     - name: remastered/obj/W_EX030_CC.a.us/-2.dds
+# -3.DDS (W_EX030_CC)  
+ - name: remastered/obj/W_EX030_CC.a.us/-3.dds
+   multi:
+   - name: remastered/obj/W_EX030_CC_NM.a.us/-3.dds
+   - name: remastered/obj/W_EX030_CC_TR.a.us/-3.dds
+   - name: remastered/obj/W_EX030_CC_WI.a.us/-3.dds
+   method: copy
+   source:
+     - name: remastered/obj/W_EX030_CC.a.us/-3.dds
+# -4.DDS (W_EX030_CC)  
+ - name: remastered/obj/W_EX030_CC.a.us/-4.dds
+   multi:
+   - name: remastered/obj/W_EX030_CC_NM.a.us/-4.dds
+   - name: remastered/obj/W_EX030_CC_TR.a.us/-4.dds
+   - name: remastered/obj/W_EX030_CC_WI.a.us/-4.dds
+   method: copy
+   source:
+     - name: remastered/obj/W_EX030_CC.a.us/-4.dds	 
+# -5.DDS (W_EX030_CC)  
+ - name: remastered/obj/W_EX030_CC.a.us/-5.dds
+   multi:
+   - name: remastered/obj/W_EX030_CC_NM.a.us/-5.dds
+   - name: remastered/obj/W_EX030_CC_TR.a.us/-5.dds
+   - name: remastered/obj/W_EX030_CC_WI.a.us/-5.dds
+   method: copy
+   source:
+     - name: remastered/obj/W_EX030_CC.a.us/-5.dds	 
+# -6.DDS (W_EX030_CC)  
+ - name: remastered/obj/W_EX030_CC.a.us/-6.dds
+   multi:
+   - name: remastered/obj/W_EX030_CC_NM.a.us/-6.dds
+   - name: remastered/obj/W_EX030_CC_TR.a.us/-6.dds
+   - name: remastered/obj/W_EX030_CC_WI.a.us/-6.dds
+   method: copy
+   source:
+     - name: remastered/obj/W_EX030_CC.a.us/-6.dds	 
+# -0.DDS (W_EX030_CG)  
+ - name: remastered/obj/W_EX030_CG.a.us/-0.dds
+   multi:
+   - name: remastered/obj/W_EX030_CG_NM.a.us/-0.dds
+   - name: remastered/obj/W_EX030_CG_TR.a.us/-0.dds
+   - name: remastered/obj/W_EX030_CG_WI.a.us/-0.dds
+   method: copy
+   source:
+     - name: remastered/obj/W_EX030_CG.a.us/-0.dds 
+# -1.DDS (W_EX030_CG)  
+ - name: remastered/obj/W_EX030_CG.a.us/-1.dds
+   multi:
+   - name: remastered/obj/W_EX030_CG_NM.a.us/-1.dds
+   - name: remastered/obj/W_EX030_CG_TR.a.us/-1.dds
+   - name: remastered/obj/W_EX030_CG_WI.a.us/-1.dds
+   method: copy
+   source:
+     - name: remastered/obj/W_EX030_CG.a.us/-1.dds
+# -2.DDS (W_EX030_CG)  
+ - name: remastered/obj/W_EX030_CG.a.us/-2.dds
+   multi:
+   - name: remastered/obj/W_EX030_CG_NM.a.us/-2.dds
+   - name: remastered/obj/W_EX030_CG_TR.a.us/-2.dds
+   - name: remastered/obj/W_EX030_CG_WI.a.us/-2.dds
+   method: copy
+   source:
+     - name: remastered/obj/W_EX030_CG.a.us/-2.dds
+# Keyblade Sounds
+ - name: remastered/obj/W_EX030.a.us/se/obj/se560
+   multi:
+   - name: remastered/obj/W_EX030_NM.a.us/se/obj/se560
+   - name: remastered/obj/W_EX030_TR.a.us/se/obj/se560
+   - name: remastered/obj/W_EX030_WI.a.us/se/obj/se560
+   method: copy
+   source:
+     - name: remastered/obj/W_EX030.a.us/se/obj/se560       
+# Keyblade Sounds (Missing Ache)
+ - name: remastered/obj/W_EX030_10.a.us/se/obj/se561
+   multi:
+   - name: remastered/obj/W_EX030_10_NM.a.us/se/obj/se561
+   - name: remastered/obj/W_EX030_10_TR.a.us/se/obj/se561
+   - name: remastered/obj/W_EX030_10_WI.a.us/se/obj/se561
+   method: copy
+   source:
+     - name: remastered/obj/W_EX030_10.a.us/se/obj/se561  
+# Keyblade Sounds (Abbadon Plasma)
+ - name: remastered/obj/W_EX030_20.a.us/se/obj/se562
+   multi:
+   - name: remastered/obj/W_EX030_20_NM.a.us/se/obj/se562
+   - name: remastered/obj/W_EX030_20_TR.a.us/se/obj/se562
+   - name: remastered/obj/W_EX030_20_WI.a.us/se/obj/se562
+   method: copy
+   source:
+     - name: remastered/obj/W_EX030_20.a.us/se/obj/se562  
+# Keyblade Sounds (Maverick Flare)
+ - name: remastered/obj/W_EX030_30.a.us/se/obj/se563
+   multi:
+   - name: remastered/obj/W_EX030_30_NM.a.us/se/obj/se563
+   - name: remastered/obj/W_EX030_30_TR.a.us/se/obj/se563
+   - name: remastered/obj/W_EX030_30_WI.a.us/se/obj/se563
+   method: copy
+   source:
+     - name: remastered/obj/W_EX030_30.a.us/se/obj/se563 
+# Keyblade Sounds (Sign of Innocence)
+ - name: remastered/obj/W_EX030_40.a.us/se/obj/se564
+   multi:
+   - name: remastered/obj/W_EX030_40_NM.a.us/se/obj/se564
+   - name: remastered/obj/W_EX030_40_TR.a.us/se/obj/se564
+   - name: remastered/obj/W_EX030_40_WI.a.us/se/obj/se564
+   method: copy
+   source:
+     - name: remastered/obj/W_EX030_40.a.us/se/obj/se564  
+# Keyblade Sounds (Abyssal Tide)
+ - name: remastered/obj/W_EX030_50.a.us/se/obj/se565
+   multi:
+   - name: remastered/obj/W_EX030_50_NM.a.us/se/obj/se565
+   - name: remastered/obj/W_EX030_50_TR.a.us/se/obj/se565
+   - name: remastered/obj/W_EX030_50_WI.a.us/se/obj/se565
+   method: copy
+   source:
+     - name: remastered/obj/W_EX030_50.a.us/se/obj/se565  
+# Keyblade Sounds (Oathkeeper)
+ - name: remastered/obj/W_EX030_60.a.us/se/obj/se566
+   multi:
+   - name: remastered/obj/W_EX030_60_NM.a.us/se/obj/se566
+   - name: remastered/obj/W_EX030_60_TR.a.us/se/obj/se566
+   - name: remastered/obj/W_EX030_60_WI.a.us/se/obj/se566
+   method: copy
+   source:
+     - name: remastered/obj/W_EX030_60.a.us/se/obj/se566  
+# Keyblade Sounds (Oblivion)
+ - name: remastered/obj/W_EX030_70.a.us/se/obj/se567
+   multi:
+   - name: remastered/obj/W_EX030_70_NM.a.us/se/obj/se567
+   - name: remastered/obj/W_EX030_70_TR.a.us/se/obj/se567
+   - name: remastered/obj/W_EX030_70_WI.a.us/se/obj/se567
+   method: copy
+   source:
+     - name: remastered/obj/W_EX030_70.a.us/se/obj/se567  
+# Keyblade Sounds (Leviathan)
+ - name: remastered/obj/W_EX030_80.a.us/se/obj/se568
+   multi:
+   - name: remastered/obj/W_EX030_80_NM.a.us/se/obj/se568
+   - name: remastered/obj/W_EX030_80_TR.a.us/se/obj/se568
+   - name: remastered/obj/W_EX030_80_WI.a.us/se/obj/se568
+   method: copy
+   source:
+     - name: remastered/obj/W_EX030_80.a.us/se/obj/se568  
+# Keyblade Sounds (Darker than Dark)
+ - name: remastered/obj/W_EX030_84.a.us/se/obj/se9977
+   multi:
+   - name: remastered/obj/W_EX030_84_NM.a.us/se/obj/se9977
+   - name: remastered/obj/W_EX030_84_TR.a.us/se/obj/se9977
+   - name: remastered/obj/W_EX030_84_WI.a.us/se/obj/se9977
+   method: copy
+   source:
+     - name: remastered/obj/W_EX030_84.a.us/se/obj/se9977 
+# Keyblade Sounds (Rejection of Fate)
+ - name: remastered/obj/W_EX030_90.a.us/se/obj/se9979
+   multi:
+   - name: remastered/obj/W_EX030_90_NM.a.us/se/obj/se9979
+   - name: remastered/obj/W_EX030_90_TR.a.us/se/obj/se9979
+   - name: remastered/obj/W_EX030_90_WI.a.us/se/obj/se9979
+   method: copy
+   source:
+     - name: remastered/obj/W_EX030_90.a.us/se/obj/se9979 
+# Keyblade Sounds (Final Sword)
+ - name: remastered/obj/W_EX030_B0.a.us/se/obj/se9981
+   multi:
+   - name: remastered/obj/W_EX030_B0_NM.a.us/se/obj/se9981
+   - name: remastered/obj/W_EX030_B0_TR.a.us/se/obj/se9981
+   - name: remastered/obj/W_EX030_B0_WI.a.us/se/obj/se9981
+   method: copy
+   source:
+     - name: remastered/obj/W_EX030_B0.a.us/se/obj/se9981
+# Keyblade Sounds (Glimpse of Darkness)
+ - name: remastered/obj/W_EX030_B4.a.us/se/obj/se9982
+   multi:
+   - name: remastered/obj/W_EX030_B4_NM.a.us/se/obj/se9982
+   - name: remastered/obj/W_EX030_B4_TR.a.us/se/obj/se9982
+   - name: remastered/obj/W_EX030_B4_WI.a.us/se/obj/se9982
+   method: copy
+   source:
+     - name: remastered/obj/W_EX030_B4.a.us/se/obj/se9982
+# Keyblade Sounds (Two Become One)
+ - name: remastered/obj/W_EX030_A0.a.us/se/obj/se9983
+   multi:
+   - name: remastered/obj/W_EX030_A0_NM.a.us/se/obj/se9983
+   - name: remastered/obj/W_EX030_A0_TR.a.us/se/obj/se9983
+   - name: remastered/obj/W_EX030_A0_WI.a.us/se/obj/se9983
+   method: copy
+   source:
+     - name: remastered/obj/W_EX030_A0.a.us/se/obj/se9983
+# Keyblade Sounds (Omega Weapon)
+ - name: remastered/obj/W_EX030_A4.a.us/se/obj/se9984
+   multi:
+   - name: remastered/obj/W_EX030_A4_NM.a.us/se/obj/se9984
+   - name: remastered/obj/W_EX030_A4_TR.a.us/se/obj/se9984
+   - name: remastered/obj/W_EX030_A4_WI.a.us/se/obj/se9984
+   method: copy
+   source:
+     - name: remastered/obj/W_EX030_A4.a.us/se/obj/se9984
+# Keyblade Sounds (Stick)
+ - name: remastered/obj/W_EX030_C0.a.us/se/obj/se9985
+   multi:
+   - name: remastered/obj/W_EX030_C0_NM.a.us/se/obj/se9985
+   - name: remastered/obj/W_EX030_C0_TR.a.us/se/obj/se9985
+   - name: remastered/obj/W_EX030_C0_WI.a.us/se/obj/se9985
+   method: copy
+   source:
+     - name: remastered/obj/W_EX030_C0.a.us/se/obj/se9985 
+# Keyblade Sounds (Umbrella)
+ - name: remastered/obj/W_EX030_C4.a.us/se/obj/se9986
+   multi:
+   - name: remastered/obj/W_EX030_C4_NM.a.us/se/obj/se9986
+   - name: remastered/obj/W_EX030_C4_TR.a.us/se/obj/se9986
+   - name: remastered/obj/W_EX030_C4_WI.a.us/se/obj/se9986
+   method: copy
+   source:
+     - name: remastered/obj/W_EX030_C4.a.us/se/obj/se9986 
+# Keyblade Sounds (Struggle Guard)
+ - name: remastered/obj/W_EX030_C8.a.us/se/obj/se9987
+   multi:
+   - name: remastered/obj/W_EX030_C8_NM.a.us/se/obj/se9987
+   - name: remastered/obj/W_EX030_C8_TR.a.us/se/obj/se9987
+   - name: remastered/obj/W_EX030_C8_WI.a.us/se/obj/se9987
+   method: copy
+   source:
+     - name: remastered/obj/W_EX030_C8.a.us/se/obj/se9987 
+# Keyblade Sounds (Struggle Wand)
+ - name: remastered/obj/W_EX030_CC.a.us/se/obj/se9988
+   multi:
+   - name: remastered/obj/W_EX030_CC_NM.a.us/se/obj/se9988
+   - name: remastered/obj/W_EX030_CC_TR.a.us/se/obj/se9988
+   - name: remastered/obj/W_EX030_CC_WI.a.us/se/obj/se9988
+   method: copy
+   source:
+     - name: remastered/obj/W_EX030_CC.a.us/se/obj/se9988  
+# Keyblade Sounds (Struggle Sword)
+ - name: remastered/obj/W_EX030_CG.a.us/se/obj/se9978
+   multi:
+   - name: remastered/obj/W_EX030_CG_NM.a.us/se/obj/se9978
+   - name: remastered/obj/W_EX030_CG_TR.a.us/se/obj/se9978
+   - name: remastered/obj/W_EX030_CG_WI.a.us/se/obj/se9978
+   method: copy
+   source:
+     - name: remastered/obj/W_EX030_CG.a.us/se/obj/se9978   
 # Text Changes     
  - name: msg/us/sys.bar
    method: binarc
@@ -512,6 +1909,12 @@ assets:
        source:
        - name: SkltList.yml
          type: sklt
+     - name: item 
+       type: list
+       method: listpatch
+       source:
+       - name: ItemList.yml
+         type: item
 # Attack IDs, Ability Change + Addition
  - name: 00battle.bin
    method: binarc

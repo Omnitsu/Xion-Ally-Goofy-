@@ -16,7 +16,7 @@
   ReflectedMotion: 0
   ReflectedHitBack: 0
   ReflectAction: 0
-  ReflectHitSound: 500003
+  ReflectHitSound: 500001
   ReflectRC: 0
   ReflectRange: 0
   ReflectAngle: 0
@@ -73,7 +73,7 @@
   Element: 0
   EnemyReaction: 11
   EffectOnHit: 1
-  KnockbackStrength1: 7
+  KnockbackStrength1: 30
   KnockbackStrength2: -2
   Unknown: 0
   Flags: 
@@ -106,8 +106,8 @@
   Element: 0
   EnemyReaction: 11
   EffectOnHit: 1
-  KnockbackStrength1: 20
-  KnockbackStrength2: -2
+  KnockbackStrength1: 1
+  KnockbackStrength2: 0
   Unknown: 0
   Flags: 
   RefactSelf: Nothing
@@ -137,7 +137,7 @@
   Power: 200
   Team: 0
   Element: 0
-  EnemyReaction: 11
+  EnemyReaction: 10
   EffectOnHit: 1
   KnockbackStrength1: 12
   KnockbackStrength2: -2
@@ -172,8 +172,8 @@
   Element: 0
   EnemyReaction: 11
   EffectOnHit: 1
-  KnockbackStrength1: 7
-  KnockbackStrength2: -2
+  KnockbackStrength1: -1
+  KnockbackStrength2: 0
   Unknown: 0
   Flags: 
   RefactSelf: Nothing
@@ -181,13 +181,13 @@
   ReflectedMotion: 0
   ReflectedHitBack: 0
   ReflectAction: 0
-  ReflectHitSound: 500001
+  ReflectHitSound: 500003
   ReflectRC: 0
   ReflectRange: 0
   ReflectAngle: 0
   DamageEffect: 1
   Switch: 0
-  Interval: 4
+  Interval: 8
   FloorCheck: 0
   DriveDrain: 0
   RevengeDamage: 0
@@ -196,3 +196,69 @@
   RandomEffect: 0
   Kind: 0
   HpDrain: 0
+- SubId: 0
+  Id: 1162 
+  Type: 1
+  CriticalAdjust: 0
+  Power: 200
+  Team: 0
+  Element: 0
+  EnemyReaction: 11
+  EffectOnHit: 1
+  KnockbackStrength1: -15
+  KnockbackStrength2: 0
+  Unknown: 0
+  Flags: KillBoss
+  RefactSelf: Nothing
+  RefactOther: Nothing
+  ReflectedMotion: 0
+  ReflectedHitBack: 0
+  ReflectAction: 0
+  ReflectHitSound: 500007
+  ReflectRC: 0
+  ReflectRange: 0
+  ReflectAngle: 0
+  DamageEffect: 1
+  Switch: 0
+  Interval: 0
+  FloorCheck: 0
+  DriveDrain: 0
+  RevengeDamage: 0
+  AttackTrReaction: Attack
+  ComboGroup: 0
+  RandomEffect: 0
+  Kind: 0
+  HpDrain: 0
+- SubId: 0
+  Id: 1188 
+  Type: 1
+  CriticalAdjust: 0
+  Power: 200
+  Team: 0
+  Element: 0
+  EnemyReaction: 11
+  EffectOnHit: 1
+  KnockbackStrength1: 6
+  KnockbackStrength2: 40
+  Unknown: 0
+  Flags: KillBoss
+  RefactSelf: Nothing
+  RefactOther: Nothing
+  ReflectedMotion: 0
+  ReflectedHitBack: 0
+  ReflectAction: 0
+  ReflectHitSound: 500007
+  ReflectRC: 0
+  ReflectRange: 0
+  ReflectAngle: 0
+  DamageEffect: 1
+  Switch: 0
+  Interval: 16
+  FloorCheck: 0
+  DriveDrain: 0
+  RevengeDamage: 0
+  AttackTrReaction: Attack
+  ComboGroup: 0
+  RandomEffect: 0
+  Kind: 0
+  HpDrain: 0 
