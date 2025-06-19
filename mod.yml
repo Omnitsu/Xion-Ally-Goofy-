@@ -27,6 +27,13 @@ assets:
    method: copy
    source:
      - name: 12soundinfo.bar
+# Pride Lands Flying + AI Fix
+ - name: 00objentry.bin
+   method: listpatch
+   type: List
+   source:
+     - name: ObjList.yml
+       type: objentry
 # Base Model     
  - name: obj/P_EX030.mdlx
    multi:
