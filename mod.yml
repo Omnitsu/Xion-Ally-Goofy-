@@ -34,6 +34,19 @@ assets:
    source:
      - name: ObjList.yml
        type: objentry
+# Blizzard Lord + Zexion Book MSETs
+ - name: obj/B_AL110.mset
+   method: copy
+   source:
+     - name: obj/B_AL110.mset
+ - name: obj/B_EX410.mset
+   method: copy
+   source:
+     - name: obj/B_EX410.mset
+ - name: obj/B_AL120.mset
+   method: copy
+   source:
+     - name: obj/B_AL120.mset
 # Base Model     
  - name: obj/P_EX030.mdlx
    multi:
