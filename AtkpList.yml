@@ -200,7 +200,7 @@
   Id: 1162 
   Type: 1
   CriticalAdjust: 0
-  Power: 200
+  Power: 400
   Team: 0
   Element: 0
   EnemyReaction: 11
@@ -233,7 +233,7 @@
   Id: 1188 
   Type: 1
   CriticalAdjust: 0
-  Power: 200
+  Power: 400
   Team: 0
   Element: 0
   EnemyReaction: 11
