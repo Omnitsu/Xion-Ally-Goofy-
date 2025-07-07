@@ -64,6 +64,7 @@ assets:
  - name: obj/P_EX030.a.us
    multi:
    - name: obj/P_EX030_NM.a.us 
+   - name: obj/P_EX030_DC.a.fm
    - name: obj/P_EX030_DC.a.us 
    - name: obj/P_EX030_CM.a.us 
    - name: obj/P_EX030_TR.a.us 
