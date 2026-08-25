@@ -713,6 +713,55 @@ assets:
    method: copy
    source:
      - name: remastered/itempic/item-319.imd/-0.dds     
+# -0.DDS (P_EX030_DC.MDLX)  
+ - name: remastered/obj/P_EX030_DC.mdlx/-0.dds
+   multi:
+   - name: remastered/obj/P_EX030_CM.mdlx/-0.dds 
+   method: copy
+   source:
+     - name: remastered/obj/P_EX030_DC.mdlx/-0.dds
+# -1.DDS (P_EX030_DC.MDLX)  
+ - name: remastered/obj/P_EX030_DC.mdlx/-1.dds
+   multi:
+   - name: remastered/obj/P_EX030_CM.mdlx/-1.dds 
+   method: copy
+   source:
+     - name: remastered/obj/P_EX030_DC.mdlx/-1.dds
+# -2.DDS (P_EX030_DC.MDLX)  
+ - name: remastered/obj/P_EX030_DC.mdlx/-2.dds
+   multi:
+   - name: remastered/obj/P_EX030_CM.mdlx/-2.dds 
+   method: copy
+   source:
+     - name: remastered/obj/P_EX030_DC.mdlx/-2.dds
+# -3.DDS (P_EX030_DC.MDLX)  
+ - name: remastered/obj/P_EX030_DC.mdlx/-3.dds
+   multi:
+   - name: remastered/obj/P_EX030_CM.mdlx/-3.dds 
+   method: copy
+   source:
+     - name: remastered/obj/P_EX030_DC.mdlx/-3.dds
+# -4.DDS (P_EX030_DC.MDLX)  
+ - name: remastered/obj/P_EX030_DC.mdlx/-4.dds
+   multi:
+   - name: remastered/obj/P_EX030_CM.mdlx/-4.dds 
+   method: copy
+   source:
+     - name: remastered/obj/P_EX030_DC.mdlx/-4.dds
+# -5.DDS (P_EX030_DC.MDLX)  
+ - name: remastered/obj/P_EX030_DC.mdlx/-5.dds
+   multi:
+   - name: remastered/obj/P_EX030_CM.mdlx/-5.dds 
+   method: copy
+   source:
+     - name: remastered/obj/P_EX030_DC.mdlx/-5.dds
+# -6.DDS (P_EX030_DC.MDLX)  
+ - name: remastered/obj/P_EX030_DC.mdlx/-6.dds
+   multi:
+   - name: remastered/obj/P_EX030_CM.mdlx/-6.dds 
+   method: copy
+   source:
+     - name: remastered/obj/P_EX030_DC.mdlx/-6.dds
 # -0.DDS (P_EX030)  
  - name: remastered/obj/P_EX030.a.us/-0.dds
    multi:
